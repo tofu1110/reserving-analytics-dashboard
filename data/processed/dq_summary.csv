@@ -1,0 +1,8 @@
+check_name,pairs_flagged,action
+Incomplete triangle (< 55 cells),304,Excluded
+Zero or negative earned premium,82,Excluded
+Negative cumulative paid,41,Excluded
+Negative incurred,20,Excluded
+Cumulative paid decreases between lags,367,Reported only
+Included in analysis,422,-
+Total company x LOB pairs,775,-

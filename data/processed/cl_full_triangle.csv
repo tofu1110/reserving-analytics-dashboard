@@ -1,0 +1,1201 @@
+lob,measure,accident_year,dev_lag,calendar_year,value,is_projected
+comauto,Paid,1988,1,1988,153000.0,False
+comauto,Paid,1988,2,1989,324062.0,False
+comauto,Paid,1988,3,1990,444667.0,False
+comauto,Paid,1988,4,1991,524389.0,False
+comauto,Paid,1988,5,1992,570430.0,False
+comauto,Paid,1988,6,1993,595182.0,False
+comauto,Paid,1988,7,1994,609292.0,False
+comauto,Paid,1988,8,1995,615514.0,False
+comauto,Paid,1988,9,1996,617830.0,False
+comauto,Paid,1988,10,1997,621962.0,False
+comauto,Paid,1989,1,1989,172737.0,False
+comauto,Paid,1989,2,1990,355135.0,False
+comauto,Paid,1989,3,1991,484817.0,False
+comauto,Paid,1989,4,1992,565438.0,False
+comauto,Paid,1989,5,1993,619361.0,False
+comauto,Paid,1989,6,1994,643626.0,False
+comauto,Paid,1989,7,1995,656677.0,False
+comauto,Paid,1989,8,1996,663145.0,False
+comauto,Paid,1989,9,1997,668622.0,False
+comauto,Paid,1989,10,1998,673093.6930288267,True
+comauto,Paid,1990,1,1990,180797.0,False
+comauto,Paid,1990,2,1991,389142.0,False
+comauto,Paid,1990,3,1992,524101.0,False
+comauto,Paid,1990,4,1993,613569.0,False
+comauto,Paid,1990,5,1994,663922.0,False
+comauto,Paid,1990,6,1995,694639.0,False
+comauto,Paid,1990,7,1996,709272.0,False
+comauto,Paid,1990,8,1997,714865.0,False
+comauto,Paid,1990,9,1998,719221.8636712368,True
+comauto,Paid,1990,10,1999,724031.9647357522,True
+comauto,Paid,1991,1,1991,178059.0,False
+comauto,Paid,1991,2,1992,379100.0,False
+comauto,Paid,1991,3,1993,518379.0,False
+comauto,Paid,1991,4,1994,608760.0,False
+comauto,Paid,1991,5,1995,667798.0,False
+comauto,Paid,1991,6,1996,693598.0,False
+comauto,Paid,1991,7,1997,707453.0,False
+comauto,Paid,1991,8,1998,714001.2456059792,True
+comauto,Paid,1991,9,1999,718352.8449823629,True
+comauto,Paid,1991,10,2000,723157.1341160521,True
+comauto,Paid,1992,1,1992,179657.0,False
+comauto,Paid,1992,2,1993,400491.0,False
+comauto,Paid,1992,3,1994,544348.0,False
+comauto,Paid,1992,4,1995,642995.0,False
+comauto,Paid,1992,5,1996,700941.0,False
+comauto,Paid,1992,6,1997,726476.0,False
+comauto,Paid,1992,7,1998,741865.0256634355,True
+comauto,Paid,1992,8,1999,748731.7919285165,True
+comauto,Paid,1992,9,2000,753295.0623974209,True
+comauto,Paid,1992,10,2001,758333.0424207706,True
+comauto,Paid,1993,1,1993,212999.0,False
+comauto,Paid,1993,2,1994,435571.0,False
+comauto,Paid,1993,3,1995,590190.0,False
+comauto,Paid,1993,4,1996,699728.0,False
+comauto,Paid,1993,5,1997,754544.0,False
+comauto,Paid,1993,6,1998,785234.0855423138,True
+comauto,Paid,1993,7,1999,801867.7905707179,True
+comauto,Paid,1993,8,2000,809289.9475708028,True
+comauto,Paid,1993,9,2001,814222.2997940455,True
+comauto,Paid,1993,10,2002,819667.7565422595,True
+comauto,Paid,1994,1,1994,244293.0,False
+comauto,Paid,1994,2,1995,481280.0,False
+comauto,Paid,1994,3,1996,649949.0,False
+comauto,Paid,1994,4,1997,754320.0,False
+comauto,Paid,1994,5,1998,820800.8042728638,True
+comauto,Paid,1994,6,1999,854185.7982511264,True
+comauto,Paid,1994,7,2000,872280.1154352161,True
+comauto,Paid,1994,8,2001,880354.0149495043,True
+comauto,Paid,1994,9,2002,885719.4789539819,True
+comauto,Paid,1994,10,2003,891643.1033928047,True
+comauto,Paid,1995,1,1995,252914.0,False
+comauto,Paid,1995,2,1996,498985.0,False
+comauto,Paid,1995,3,1997,658615.0,False
+comauto,Paid,1995,4,1998,773060.6893008854,True
+comauto,Paid,1995,5,1999,841193.1746870044,True
+comauto,Paid,1995,6,2000,875407.6015312371,True
+comauto,Paid,1995,7,2001,893951.4626442412,True
+comauto,Paid,1995,8,2002,902225.9540058142,True
+comauto,Paid,1995,9,2003,907724.7201816023,True
+comauto,Paid,1995,10,2004,913795.5139983325,True
+comauto,Paid,1996,1,1996,265788.0,False
+comauto,Paid,1996,2,1997,498865.0,False
+comauto,Paid,1996,3,1998,674840.628920701,True
+comauto,Paid,1996,4,1999,792105.8004474237,True
+comauto,Paid,1996,5,2000,861916.7966863479,True
+comauto,Paid,1996,6,2001,896974.1296194321,True
+comauto,Paid,1996,7,2002,915974.8370070831,True
+comauto,Paid,1996,8,2003,924453.17860945,True
+comauto,Paid,1996,9,2004,930087.4123034242,True
+comauto,Paid,1996,10,2005,936307.7661024268,True
+comauto,Paid,1997,1,1997,264210.0,False
+comauto,Paid,1997,2,1998,540213.5458721779,True
+comauto,Paid,1997,3,1999,730774.9572486794,True
+comauto,Paid,1997,4,2000,857759.6808066762,True
+comauto,Paid,1997,5,2001,933356.9783102062,True
+comauto,Paid,1997,6,2002,971320.0467407494,True
+comauto,Paid,1997,7,2003,991895.6323439939,True
+comauto,Paid,1997,8,2004,1001076.7033354047,True
+comauto,Paid,1997,9,2005,1007177.9318483177,True
+comauto,Paid,1997,10,2006,1013913.8611725611,True
+comauto,Reported incurred,1988,1,1988,415020.0,False
+comauto,Reported incurred,1988,2,1989,537860.0,False
+comauto,Reported incurred,1988,3,1990,587282.0,False
+comauto,Reported incurred,1988,4,1991,614970.0,False
+comauto,Reported incurred,1988,5,1992,623127.0,False
+comauto,Reported incurred,1988,6,1993,627462.0,False
+comauto,Reported incurred,1988,7,1994,626588.0,False
+comauto,Reported incurred,1988,8,1995,625304.0,False
+comauto,Reported incurred,1988,9,1996,624414.0,False
+comauto,Reported incurred,1988,10,1997,624079.0,False
+comauto,Reported incurred,1989,1,1989,444441.0,False
+comauto,Reported incurred,1989,2,1990,581478.0,False
+comauto,Reported incurred,1989,3,1991,641701.0,False
+comauto,Reported incurred,1989,4,1992,663236.0,False
+comauto,Reported incurred,1989,5,1993,673654.0,False
+comauto,Reported incurred,1989,6,1994,675581.0,False
+comauto,Reported incurred,1989,7,1995,674991.0,False
+comauto,Reported incurred,1989,8,1996,673487.0,False
+comauto,Reported incurred,1989,9,1997,672681.0,False
+comauto,Reported incurred,1989,10,1998,672320.1046084809,True
+comauto,Reported incurred,1990,1,1990,468623.0,False
+comauto,Reported incurred,1990,2,1991,621009.0,False
+comauto,Reported incurred,1990,3,1992,684789.0,False
+comauto,Reported incurred,1990,4,1993,712652.0,False
+comauto,Reported incurred,1990,5,1994,723811.0,False
+comauto,Reported incurred,1990,6,1995,726470.0,False
+comauto,Reported incurred,1990,7,1996,723231.0,False
+comauto,Reported incurred,1990,8,1997,724114.0,False
+comauto,Reported incurred,1990,9,1998,723168.4303556152,True
+comauto,Reported incurred,1990,10,1999,722780.448304974,True
+comauto,Reported incurred,1991,1,1991,481269.0,False
+comauto,Reported incurred,1991,2,1992,625943.0,False
+comauto,Reported incurred,1991,3,1993,687866.0,False
+comauto,Reported incurred,1991,4,1994,716023.0,False
+comauto,Reported incurred,1991,5,1995,725437.0,False
+comauto,Reported incurred,1991,6,1996,724733.0,False
+comauto,Reported incurred,1991,7,1997,726434.0,False
+comauto,Reported incurred,1991,8,1998,725750.5498145506,True
+comauto,Reported incurred,1991,9,1999,724802.8431146385,True
+comauto,Reported incurred,1991,10,2000,724413.9841966075,True
+comauto,Reported incurred,1992,1,1992,517036.0,False
+comauto,Reported incurred,1992,2,1993,662739.0,False
+comauto,Reported incurred,1992,3,1994,721792.0,False
+comauto,Reported incurred,1992,4,1995,746660.0,False
+comauto,Reported incurred,1992,5,1996,750503.0,False
+comauto,Reported incurred,1992,6,1997,756224.0,False
+comauto,Reported incurred,1992,7,1998,755399.751022966,True
+comauto,Reported incurred,1992,8,1999,754689.0490184822,True
+comauto,Reported incurred,1992,9,2000,753703.553563759,True
+comauto,Reported incurred,1992,10,2001,753299.1893271406,True
+comauto,Reported incurred,1993,1,1993,547393.0,False
+comauto,Reported incurred,1993,2,1994,697448.0,False
+comauto,Reported incurred,1993,3,1995,766988.0,False
+comauto,Reported incurred,1993,4,1996,791032.0,False
+comauto,Reported incurred,1993,5,1997,804629.0,False
+comauto,Reported incurred,1993,6,1998,807836.4406875235,True
+comauto,Reported incurred,1993,7,1999,806955.9365513823,True
+comauto,Reported incurred,1993,8,2000,806196.7289915944,True
+comauto,Reported incurred,1993,9,2001,805143.9732731045,True
+comauto,Reported incurred,1993,10,2002,804712.0110956915,True
+comauto,Reported incurred,1994,1,1994,605698.0,False
+comauto,Reported incurred,1994,2,1995,760431.0,False
+comauto,Reported incurred,1994,3,1996,822398.0,False
+comauto,Reported incurred,1994,4,1997,861962.0,False
+comauto,Reported incurred,1994,5,1998,873453.5459472602,True
+comauto,Reported incurred,1994,6,1999,876935.3374833917,True
+comauto,Reported incurred,1994,7,2000,875979.518764539,True
+comauto,Reported incurred,1994,8,2001,875155.3718158148,True
+comauto,Reported incurred,1994,9,2002,874012.5678461232,True
+comauto,Reported incurred,1994,10,2003,873543.657459379,True
+comauto,Reported incurred,1995,1,1995,619955.0,False
+comauto,Reported incurred,1995,2,1996,770736.0,False
+comauto,Reported incurred,1995,3,1997,828021.0,False
+comauto,Reported incurred,1995,4,1998,860670.9913896635,True
+comauto,Reported incurred,1995,5,1999,872145.325806991,True
+comauto,Reported incurred,1995,6,2000,875621.902469552,True
+comauto,Reported incurred,1995,7,2001,874667.5153337574,True
+comauto,Reported incurred,1995,8,2002,873844.6027559298,True
+comauto,Reported incurred,1995,9,2003,872703.5104275459,True
+comauto,Reported incurred,1995,10,2004,872235.302354067,True
+comauto,Reported incurred,1996,1,1996,599667.0,False
+comauto,Reported incurred,1996,2,1997,753279.0,False
+comauto,Reported incurred,1996,3,1998,822507.5631828629,True
+comauto,Reported incurred,1996,4,1999,854940.1522788561,True
+comauto,Reported incurred,1996,5,2000,866338.0840230284,True
+comauto,Reported incurred,1996,6,2001,869791.5116522086,True
+comauto,Reported incurred,1996,7,2002,868843.4793711489,True
+comauto,Reported incurred,1996,8,2003,868026.0462153456,True
+comauto,Reported incurred,1996,9,2004,866892.5519315222,True
+comauto,Reported incurred,1996,10,2005,866427.461454856,True
+comauto,Reported incurred,1997,1,1997,597001.0,False
+comauto,Reported incurred,1997,2,1998,763662.3001422399,True
+comauto,Reported incurred,1997,3,1999,833845.1192514512,True
+comauto,Reported incurred,1997,4,2000,866724.7635646663,True
+comauto,Reported incurred,1997,5,2001,878279.805949518,True
+comauto,Reported incurred,1997,6,2002,881780.836094623,True
+comauto,Reported incurred,1997,7,2003,880819.7360077186,True
+comauto,Reported incurred,1997,8,2004,879991.0352421679,True
+comauto,Reported incurred,1997,9,2005,878841.9167190408,True
+comauto,Reported incurred,1997,10,2006,878370.4153720165,True
+medmal,Paid,1988,1,1988,5539.0,False
+medmal,Paid,1988,2,1989,44916.0,False
+medmal,Paid,1988,3,1990,90977.0,False
+medmal,Paid,1988,4,1991,129457.0,False
+medmal,Paid,1988,5,1992,161680.0,False
+medmal,Paid,1988,6,1993,177536.0,False
+medmal,Paid,1988,7,1994,192962.0,False
+medmal,Paid,1988,8,1995,199757.0,False
+medmal,Paid,1988,9,1996,206577.0,False
+medmal,Paid,1988,10,1997,210373.0,False
+medmal,Paid,1989,1,1989,8854.0,False
+medmal,Paid,1989,2,1990,49147.0,False
+medmal,Paid,1989,3,1991,97282.0,False
+medmal,Paid,1989,4,1992,146466.0,False
+medmal,Paid,1989,5,1993,171568.0,False
+medmal,Paid,1989,6,1994,192821.0,False
+medmal,Paid,1989,7,1995,205715.0,False
+medmal,Paid,1989,8,1996,211899.0,False
+medmal,Paid,1989,9,1997,216381.0,False
+medmal,Paid,1989,10,1998,220357.15550617926,True
+medmal,Paid,1990,1,1990,11397.0,False
+medmal,Paid,1990,2,1991,54320.0,False
+medmal,Paid,1990,3,1992,116137.0,False
+medmal,Paid,1990,4,1993,159247.0,False
+medmal,Paid,1990,5,1994,184816.0,False
+medmal,Paid,1990,6,1995,207412.0,False
+medmal,Paid,1990,7,1996,218200.0,False
+medmal,Paid,1990,8,1997,228127.0,False
+medmal,Paid,1990,9,1998,234390.2182064636,True
+medmal,Paid,1990,10,1999,238697.3059670165,True
+medmal,Paid,1991,1,1991,10610.0,False
+medmal,Paid,1991,2,1992,71965.0,False
+medmal,Paid,1991,3,1993,142031.0,False
+medmal,Paid,1991,4,1994,193178.0,False
+medmal,Paid,1991,5,1995,237156.0,False
+medmal,Paid,1991,6,1996,251538.0,False
+medmal,Paid,1991,7,1997,266036.0,False
+medmal,Paid,1991,8,1998,275914.50189908204,True
+medmal,Paid,1991,9,1999,283489.72417317354,True
+medmal,Paid,1991,10,2000,288699.0504435781,True
+medmal,Paid,1992,1,1992,11811.0,False
+medmal,Paid,1992,2,1993,74630.0,False
+medmal,Paid,1992,3,1994,150782.0,False
+medmal,Paid,1992,4,1995,200709.0,False
+medmal,Paid,1992,5,1996,232901.0,False
+medmal,Paid,1992,6,1997,254344.0,False
+medmal,Paid,1992,7,1998,270784.67210815777,True
+medmal,Paid,1992,8,1999,280839.5026486212,True
+medmal,Paid,1992,9,2000,288549.94063309056,True
+medmal,Paid,1992,10,2001,293852.2519971011,True
+medmal,Paid,1993,1,1993,17526.0,False
+medmal,Paid,1993,2,1994,86179.0,False
+medmal,Paid,1993,3,1995,158410.0,False
+medmal,Paid,1993,4,1996,216678.0,False
+medmal,Paid,1993,5,1997,263466.0,False
+medmal,Paid,1993,6,1998,288937.4827232697,True
+medmal,Paid,1993,7,1999,307614.26068229286,True
+medmal,Paid,1993,8,2000,319036.6548632862,True
+medmal,Paid,1993,9,2001,327795.7942254353,True
+medmal,Paid,1993,10,2002,333819.27619525645,True
+medmal,Paid,1994,1,1994,13979.0,False
+medmal,Paid,1994,2,1995,89591.0,False
+medmal,Paid,1994,3,1996,177322.0,False
+medmal,Paid,1994,4,1997,239886.0,False
+medmal,Paid,1994,5,1998,287107.3446733637,True
+medmal,Paid,1994,6,1999,314864.4357954495,True
+medmal,Paid,1994,7,2000,335217.1193556399,True
+medmal,Paid,1994,8,2001,347664.468399226,True
+medmal,Paid,1994,9,2002,357209.583305478,True
+medmal,Paid,1994,10,2003,363773.5646694613,True
+medmal,Paid,1995,1,1995,16764.0,False
+medmal,Paid,1995,2,1996,104078.0,False
+medmal,Paid,1995,3,1997,197251.0,False
+medmal,Paid,1995,4,1998,271817.8618701505,True
+medmal,Paid,1995,5,1999,325324.9650097549,True
+medmal,Paid,1995,6,2000,356776.87616980704,True
+medmal,Paid,1995,7,2001,379838.7594337354,True
+medmal,Paid,1995,8,2002,393943.00813094596,True
+medmal,Paid,1995,9,2003,404758.6986052642,True
+medmal,Paid,1995,10,2004,412196.4289426472,True
+medmal,Paid,1996,1,1996,19290.0,False
+medmal,Paid,1996,2,1997,101731.0,False
+medmal,Paid,1996,3,1998,200018.02693684702,True
+medmal,Paid,1996,4,1999,275630.90893055,True
+medmal,Paid,1996,5,2000,329888.6069756298,True
+medmal,Paid,1996,6,2001,361781.72393638856,True
+medmal,Paid,1996,7,2002,385167.1181189217,True
+medmal,Paid,1996,8,2003,399469.2204952982,True
+medmal,Paid,1996,9,2004,410436.63292227086,True
+medmal,Paid,1996,10,2005,417978.6993603203,True
+medmal,Paid,1997,1,1997,18413.0,False
+medmal,Paid,1997,2,1998,107605.11394143563,True
+medmal,Paid,1997,3,1999,211567.39419528522,True
+medmal,Paid,1997,4,2000,291546.2873780194,True
+medmal,Paid,1997,5,2001,348936.9134442217,True
+medmal,Paid,1997,6,2002,382671.59102047654,True
+medmal,Paid,1997,7,2003,407407.2960226574,True
+medmal,Paid,1997,8,2004,422535.22512796527,True
+medmal,Paid,1997,9,2005,434135.9138447488,True
+medmal,Paid,1997,10,2006,442113.4715058372,True
+medmal,Reported incurred,1988,1,1988,128221.0,False
+medmal,Reported incurred,1988,2,1989,219874.0,False
+medmal,Reported incurred,1988,3,1990,241231.0,False
+medmal,Reported incurred,1988,4,1991,255728.0,False
+medmal,Reported incurred,1988,5,1992,260291.0,False
+medmal,Reported incurred,1988,6,1993,244545.0,False
+medmal,Reported incurred,1988,7,1994,241090.0,False
+medmal,Reported incurred,1988,8,1995,230945.0,False
+medmal,Reported incurred,1988,9,1996,231180.0,False
+medmal,Reported incurred,1988,10,1997,231174.0,False
+medmal,Reported incurred,1989,1,1989,175878.0,False
+medmal,Reported incurred,1989,2,1990,236902.0,False
+medmal,Reported incurred,1989,3,1991,254527.0,False
+medmal,Reported incurred,1989,4,1992,269130.0,False
+medmal,Reported incurred,1989,5,1993,258941.0,False
+medmal,Reported incurred,1989,6,1994,254551.0,False
+medmal,Reported incurred,1989,7,1995,245532.0,False
+medmal,Reported incurred,1989,8,1996,242602.0,False
+medmal,Reported incurred,1989,9,1997,240170.0,False
+medmal,Reported incurred,1989,10,1998,240163.76667531792,True
+medmal,Reported incurred,1990,1,1990,197071.0,False
+medmal,Reported incurred,1990,2,1991,265961.0,False
+medmal,Reported incurred,1990,3,1992,295259.0,False
+medmal,Reported incurred,1990,4,1993,295386.0,False
+medmal,Reported incurred,1990,5,1994,287616.0,False
+medmal,Reported incurred,1990,6,1995,282267.0,False
+medmal,Reported incurred,1990,7,1996,276656.0,False
+medmal,Reported incurred,1990,8,1997,270742.0,False
+medmal,Reported incurred,1990,9,1998,269485.90467260906,True
+medmal,Reported incurred,1990,10,1999,269478.91048873484,True
+medmal,Reported incurred,1991,1,1991,214495.0,False
+medmal,Reported incurred,1991,2,1992,320439.0,False
+medmal,Reported incurred,1991,3,1993,341343.0,False
+medmal,Reported incurred,1991,4,1994,341860.0,False
+medmal,Reported incurred,1991,5,1995,331406.0,False
+medmal,Reported incurred,1991,6,1996,321056.0,False
+medmal,Reported incurred,1991,7,1997,313093.0,False
+medmal,Reported incurred,1991,8,1998,305303.80264726613,True
+medmal,Reported incurred,1991,9,1999,303887.359391547,True
+medmal,Reported incurred,1991,10,2000,303879.4723591205,True
+medmal,Reported incurred,1992,1,1992,243288.0,False
+medmal,Reported incurred,1992,2,1993,351893.0,False
+medmal,Reported incurred,1992,3,1994,371806.0,False
+medmal,Reported incurred,1992,4,1995,365832.0,False
+medmal,Reported incurred,1992,5,1996,360485.0,False
+medmal,Reported incurred,1992,6,1997,346751.0,False
+medmal,Reported incurred,1992,7,1998,338557.9535739133,True
+medmal,Reported incurred,1992,8,1999,330135.23343732476,True
+medmal,Reported incurred,1992,9,2000,328603.58587570617,True
+medmal,Reported incurred,1992,10,2001,328595.0573632256,True
+medmal,Reported incurred,1993,1,1993,250369.0,False
+medmal,Reported incurred,1993,2,1994,357046.0,False
+medmal,Reported incurred,1993,3,1995,375320.0,False
+medmal,Reported incurred,1993,4,1996,388554.0,False
+medmal,Reported incurred,1993,5,1997,392118.0,False
+medmal,Reported incurred,1993,6,1998,379149.1661056394,True
+medmal,Reported incurred,1993,7,1999,370190.6145216049,True
+medmal,Reported incurred,1993,8,2000,360980.93000410177,True
+medmal,Reported incurred,1993,9,2001,359306.17522111506,True
+medmal,Reported incurred,1993,10,2002,359296.84985970263,True
+medmal,Reported incurred,1994,1,1994,285858.0,False
+medmal,Reported incurred,1994,2,1995,399010.0,False
+medmal,Reported incurred,1994,3,1996,436761.0,False
+medmal,Reported incurred,1994,4,1997,436298.0,False
+medmal,Reported incurred,1994,5,1998,430462.5264864413,True
+medmal,Reported incurred,1994,6,1999,416225.4932368853,True
+medmal,Reported incurred,1994,7,2000,406390.90072003426,True
+medmal,Reported incurred,1994,8,2001,396280.61742381356,True
+medmal,Reported incurred,1994,9,2002,394442.09132929676,True
+medmal,Reported incurred,1994,10,2003,394431.85405726644,True
+medmal,Reported incurred,1995,1,1995,289381.0,False
+medmal,Reported incurred,1995,2,1996,424728.0,False
+medmal,Reported incurred,1995,3,1997,455354.0,False
+medmal,Reported incurred,1995,4,1998,462537.64255366556,True
+medmal,Reported incurred,1995,5,1999,456351.2145568702,True
+medmal,Reported incurred,1995,6,2000,441257.943911101,True
+medmal,Reported incurred,1995,7,2001,430831.883653616,True
+medmal,Reported incurred,1995,8,2002,420113.5521430805,True
+medmal,Reported incurred,1995,9,2003,418164.454220259,True
+medmal,Reported incurred,1995,10,2004,418153.6012627137,True
+medmal,Reported incurred,1996,1,1996,291654.0,False
+medmal,Reported incurred,1996,2,1997,431432.0,False
+medmal,Reported incurred,1996,3,1998,464218.01346272475,True
+medmal,Reported incurred,1996,4,1999,471541.49426159536,True
+medmal,Reported incurred,1996,5,2000,465234.6400007291,True
+medmal,Reported incurred,1996,6,2001,449847.5606825849,True
+medmal,Reported incurred,1996,7,2002,439218.54461822094,True
+medmal,Reported incurred,1996,8,2003,428291.5678892239,True
+medmal,Reported incurred,1996,9,2004,426304.52843030513,True
+medmal,Reported incurred,1996,10,2005,426293.4642068836,True
+medmal,Reported incurred,1997,1,1997,283716.0,False
+medmal,Reported incurred,1997,2,1998,410947.2627160482,True
+medmal,Reported incurred,1997,3,1999,442176.5699716024,True
+medmal,Reported incurred,1997,4,2000,449152.3260301455,True
+medmal,Reported incurred,1997,5,2001,443144.92626644694,True
+medmal,Reported incurred,1997,6,2002,428488.4378117517,True
+medmal,Reported incurred,1997,7,2003,418364.0959525126,True
+medmal,Reported incurred,1997,8,2004,407955.9408399032,True
+medmal,Reported incurred,1997,9,2005,406063.2476077103,True
+medmal,Reported incurred,1997,10,2006,406052.70872248814,True
+othliab,Paid,1988,1,1988,30353.0,False
+othliab,Paid,1988,2,1989,84969.0,False
+othliab,Paid,1988,3,1990,142667.0,False
+othliab,Paid,1988,4,1991,213233.0,False
+othliab,Paid,1988,5,1992,247334.0,False
+othliab,Paid,1988,6,1993,271595.0,False
+othliab,Paid,1988,7,1994,289176.0,False
+othliab,Paid,1988,8,1995,296405.0,False
+othliab,Paid,1988,9,1996,301731.0,False
+othliab,Paid,1988,10,1997,304910.0,False
+othliab,Paid,1989,1,1989,36171.0,False
+othliab,Paid,1989,2,1990,95560.0,False
+othliab,Paid,1989,3,1991,170159.0,False
+othliab,Paid,1989,4,1992,228699.0,False
+othliab,Paid,1989,5,1993,277212.0,False
+othliab,Paid,1989,6,1994,303822.0,False
+othliab,Paid,1989,7,1995,314668.0,False
+othliab,Paid,1989,8,1996,325492.0,False
+othliab,Paid,1989,9,1997,332247.0,False
+othliab,Paid,1989,10,1998,335747.5127514243,True
+othliab,Paid,1990,1,1990,36404.0,False
+othliab,Paid,1990,2,1991,101835.0,False
+othliab,Paid,1990,3,1992,180997.0,False
+othliab,Paid,1990,4,1993,250630.0,False
+othliab,Paid,1990,5,1994,289258.0,False
+othliab,Paid,1990,6,1995,319416.0,False
+othliab,Paid,1990,7,1996,335043.0,False
+othliab,Paid,1990,8,1997,343422.0,False
+othliab,Paid,1990,9,1998,350093.3317189181,True
+othliab,Paid,1990,10,1999,353781.871184649,True
+othliab,Paid,1991,1,1991,37862.0,False
+othliab,Paid,1991,2,1992,119668.0,False
+othliab,Paid,1991,3,1993,217898.0,False
+othliab,Paid,1991,4,1994,301110.0,False
+othliab,Paid,1991,5,1995,344366.0,False
+othliab,Paid,1991,6,1996,373531.0,False
+othliab,Paid,1991,7,1997,395118.0,False
+othliab,Paid,1991,8,1998,406241.5526490408,True
+othliab,Paid,1991,9,1999,414133.21991476655,True
+othliab,Paid,1991,10,2000,418496.4756163983,True
+othliab,Paid,1992,1,1992,39092.0,False
+othliab,Paid,1992,2,1993,118782.0,False
+othliab,Paid,1992,3,1994,211539.0,False
+othliab,Paid,1992,4,1995,288844.0,False
+othliab,Paid,1992,5,1996,331615.0,False
+othliab,Paid,1992,6,1997,367288.0,False
+othliab,Paid,1992,7,1998,386296.0699294525,True
+othliab,Paid,1992,8,1999,397171.26334503415,True
+othliab,Paid,1992,9,2000,404886.7307495583,True
+othliab,Paid,1992,10,2001,409152.56660020957,True
+othliab,Paid,1993,1,1993,43160.0,False
+othliab,Paid,1993,2,1994,165303.0,False
+othliab,Paid,1993,3,1995,279306.0,False
+othliab,Paid,1993,4,1996,360299.0,False
+othliab,Paid,1993,5,1997,414113.0,False
+othliab,Paid,1993,6,1998,454659.4016425189,True
+othliab,Paid,1993,7,1999,478189.1594905945,True
+othliab,Paid,1993,8,2000,491651.371517873,True
+othliab,Paid,1993,9,2001,501202.21389097883,True
+othliab,Paid,1993,10,2002,506482.81760077144,True
+othliab,Paid,1994,1,1994,47067.0,False
+othliab,Paid,1994,2,1995,154197.0,False
+othliab,Paid,1994,3,1996,272677.0,False
+othliab,Paid,1994,4,1997,368927.0,False
+othliab,Paid,1994,5,1998,427558.4149438616,True
+othliab,Paid,1994,6,1999,469421.2765733022,True
+othliab,Paid,1994,7,2000,493714.9982616726,True
+othliab,Paid,1994,8,2001,507614.30119594745,True
+othliab,Paid,1994,9,2002,517475.24018222373,True
+othliab,Paid,1994,10,2003,522927.2944575196,True
+othliab,Paid,1995,1,1995,43373.0,False
+othliab,Paid,1995,2,1996,165834.0,False
+othliab,Paid,1995,3,1997,283999.0,False
+othliab,Paid,1995,4,1998,387280.41160541016,True
+othliab,Paid,1995,5,1999,448828.62713982846,True
+othliab,Paid,1995,6,2000,492774.0859510028,True
+othliab,Paid,1995,7,2001,518276.37376105564,True
+othliab,Paid,1995,8,2002,532867.1403935174,True
+othliab,Paid,1995,9,2003,543218.6422066699,True
+othliab,Paid,1995,10,2004,548941.9257392702,True
+othliab,Paid,1996,1,1996,59672.0,False
+othliab,Paid,1996,2,1997,183149.0,False
+othliab,Paid,1996,3,1998,320234.61067159113,True
+othliab,Paid,1996,4,1999,436693.7624118115,True
+othliab,Paid,1996,5,2000,506094.95339908823,True
+othliab,Paid,1996,6,2001,555647.4408838359,True
+othliab,Paid,1996,7,2002,584403.581602948,True
+othliab,Paid,1996,8,2003,600855.9933084345,True
+othliab,Paid,1996,9,2004,612528.2497353978,True
+othliab,Paid,1996,10,2005,618981.7706063353,True
+othliab,Paid,1997,1,1997,62010.0,False
+othliab,Paid,1997,2,1998,197635.04336011404,True
+othliab,Paid,1997,3,1999,345563.3455027826,True
+othliab,Paid,1997,4,2000,471233.75322469516,True
+othliab,Paid,1997,5,2001,546124.1833663501,True
+othliab,Paid,1997,6,2002,599595.9905432914,True
+othliab,Paid,1997,7,2003,630626.5783045748,True
+othliab,Paid,1997,8,2004,648380.2821238273,True
+othliab,Paid,1997,9,2005,660975.747592125,True
+othliab,Paid,1997,10,2006,667939.7052285474,True
+othliab,Reported incurred,1988,1,1988,121302.0,False
+othliab,Reported incurred,1988,2,1989,187112.0,False
+othliab,Reported incurred,1988,3,1990,232893.0,False
+othliab,Reported incurred,1988,4,1991,271912.0,False
+othliab,Reported incurred,1988,5,1992,287800.0,False
+othliab,Reported incurred,1988,6,1993,297816.0,False
+othliab,Reported incurred,1988,7,1994,303116.0,False
+othliab,Reported incurred,1988,8,1995,305706.0,False
+othliab,Reported incurred,1988,9,1996,307718.0,False
+othliab,Reported incurred,1988,10,1997,308130.0,False
+othliab,Reported incurred,1989,1,1989,132705.0,False
+othliab,Reported incurred,1989,2,1990,199812.0,False
+othliab,Reported incurred,1989,3,1991,254114.0,False
+othliab,Reported incurred,1989,4,1992,291805.0,False
+othliab,Reported incurred,1989,5,1993,315649.0,False
+othliab,Reported incurred,1989,6,1994,324811.0,False
+othliab,Reported incurred,1989,7,1995,329003.0,False
+othliab,Reported incurred,1989,8,1996,332603.0,False
+othliab,Reported incurred,1989,9,1997,336075.0,False
+othliab,Reported incurred,1989,10,1998,336524.9668527678,True
+othliab,Reported incurred,1990,1,1990,140047.0,False
+othliab,Reported incurred,1990,2,1991,226157.0,False
+othliab,Reported incurred,1990,3,1992,286766.0,False
+othliab,Reported incurred,1990,4,1993,335756.0,False
+othliab,Reported incurred,1990,5,1994,347229.0,False
+othliab,Reported incurred,1990,6,1995,350102.0,False
+othliab,Reported incurred,1990,7,1996,354412.0,False
+othliab,Reported incurred,1990,8,1997,353176.0,False
+othliab,Reported incurred,1990,9,1998,356210.29402374086,True
+othliab,Reported incurred,1990,10,1999,356687.2197841376,True
+othliab,Reported incurred,1991,1,1991,145327.0,False
+othliab,Reported incurred,1991,2,1992,255979.0,False
+othliab,Reported incurred,1991,3,1993,341368.0,False
+othliab,Reported incurred,1991,4,1994,378398.0,False
+othliab,Reported incurred,1991,5,1995,397139.0,False
+othliab,Reported incurred,1991,6,1996,403947.0,False
+othliab,Reported incurred,1991,7,1997,413881.0,False
+othliab,Reported incurred,1991,8,1998,415959.3599035408,True
+othliab,Reported incurred,1991,9,1999,419533.054038687,True
+othliab,Reported incurred,1991,10,2000,420094.7618954388,True
+othliab,Reported incurred,1992,1,1992,149179.0,False
+othliab,Reported incurred,1992,2,1993,260188.0,False
+othliab,Reported incurred,1992,3,1994,340229.0,False
+othliab,Reported incurred,1992,4,1995,370442.0,False
+othliab,Reported incurred,1992,5,1996,393935.0,False
+othliab,Reported incurred,1992,6,1997,402926.0,False
+othliab,Reported incurred,1992,7,1998,409873.06055455306,True
+othliab,Reported incurred,1992,8,1999,411931.2940434016,True
+othliab,Reported incurred,1992,9,2000,415470.3812512179,True
+othliab,Reported incurred,1992,10,2001,416026.6496433026,True
+othliab,Reported incurred,1993,1,1993,176717.0,False
+othliab,Reported incurred,1993,2,1994,331854.0,False
+othliab,Reported incurred,1993,3,1995,408076.0,False
+othliab,Reported incurred,1993,4,1996,444555.0,False
+othliab,Reported incurred,1993,5,1997,464174.0,False
+othliab,Reported incurred,1993,6,1998,474260.9618062732,True
+othliab,Reported incurred,1993,7,1999,482437.9462161369,True
+othliab,Reported incurred,1993,8,2000,484860.5741777061,True
+othliab,Reported incurred,1993,9,2001,489026.22966555064,True
+othliab,Reported incurred,1993,10,2002,489680.9811153268,True
+othliab,Reported incurred,1994,1,1994,192045.0,False
+othliab,Reported incurred,1994,2,1995,319148.0,False
+othliab,Reported incurred,1994,3,1996,413054.0,False
+othliab,Reported incurred,1994,4,1997,470381.0,False
+othliab,Reported incurred,1994,5,1998,495791.26720175374,True
+othliab,Reported incurred,1994,6,1999,506565.30361083284,True
+othliab,Reported incurred,1994,7,2000,515299.26428604376,True
+othliab,Reported incurred,1994,8,2001,517886.90983927326,True
+othliab,Reported incurred,1994,9,2002,522336.3094459819,True
+othliab,Reported incurred,1994,10,2003,523035.6593686116,True
+othliab,Reported incurred,1995,1,1995,196093.0,False
+othliab,Reported incurred,1995,2,1996,329059.0,False
+othliab,Reported incurred,1995,3,1997,414970.0,False
+othliab,Reported incurred,1995,4,1998,467239.8144212607,True
+othliab,Reported incurred,1995,5,1999,492480.39287094725,True
+othliab,Reported incurred,1995,6,2000,503182.4806941077,True
+othliab,Reported incurred,1995,7,2001,511858.1163278773,True
+othliab,Reported incurred,1995,8,2002,514428.4816871902,True
+othliab,Reported incurred,1995,9,2003,518848.1683805825,True
+othliab,Reported incurred,1995,10,2004,519542.84807228984,True
+othliab,Reported incurred,1996,1,1996,216705.0,False
+othliab,Reported incurred,1996,2,1997,351362.0,False
+othliab,Reported incurred,1996,3,1998,448336.5320775666,True
+othliab,Reported incurred,1996,4,1999,504809.21041567775,True
+othliab,Reported incurred,1996,5,2000,532079.3104464373,True
+othliab,Reported incurred,1996,6,2001,543641.922058422,True
+othliab,Reported incurred,1996,7,2002,553015.1403479679,True
+othliab,Reported incurred,1996,8,2003,555792.1813180781,True
+othliab,Reported incurred,1996,9,2004,560567.2421778629,True
+othliab,Reported incurred,1996,10,2005,561317.7790453106,True
+othliab,Reported incurred,1997,1,1997,221115.0,False
+othliab,Reported incurred,1997,2,1998,370099.902161048,True
+othliab,Reported incurred,1997,3,1999,472246.02164471685,True
+othliab,Reported incurred,1997,4,2000,531730.3504216115,True
+othliab,Reported incurred,1997,5,2001,560454.7467800854,True
+othliab,Reported incurred,1997,6,2002,572633.9847919414,True
+othliab,Reported incurred,1997,7,2003,582507.0705891962,True
+othliab,Reported incurred,1997,8,2004,585432.20931033,True
+othliab,Reported incurred,1997,9,2005,590461.9209952003,True
+othliab,Reported incurred,1997,10,2006,591252.4834954442,True
+ppauto,Paid,1988,1,1988,3090312.0,False
+ppauto,Paid,1988,2,1989,5935462.0,False
+ppauto,Paid,1988,3,1990,7230051.0,False
+ppauto,Paid,1988,4,1991,7920083.0,False
+ppauto,Paid,1988,5,1992,8307992.0,False
+ppauto,Paid,1988,6,1993,8507670.0,False
+ppauto,Paid,1988,7,1994,8599755.0,False
+ppauto,Paid,1988,8,1995,8644827.0,False
+ppauto,Paid,1988,9,1996,8670649.0,False
+ppauto,Paid,1988,10,1997,8679216.0,False
+ppauto,Paid,1989,1,1989,3553339.0,False
+ppauto,Paid,1989,2,1990,6746114.0,False
+ppauto,Paid,1989,3,1991,8210490.0,False
+ppauto,Paid,1989,4,1992,9009054.0,False
+ppauto,Paid,1989,5,1993,9431029.0,False
+ppauto,Paid,1989,6,1994,9637005.0,False
+ppauto,Paid,1989,7,1995,9742041.0,False
+ppauto,Paid,1989,8,1996,9788522.0,False
+ppauto,Paid,1989,9,1997,9812760.0,False
+ppauto,Paid,1989,10,1998,9822455.458196957,True
+ppauto,Paid,1990,1,1990,4009441.0,False
+ppauto,Paid,1990,2,1991,7464588.0,False
+ppauto,Paid,1990,3,1992,9077968.0,False
+ppauto,Paid,1990,4,1993,9924538.0,False
+ppauto,Paid,1990,5,1994,10349815.0,False
+ppauto,Paid,1990,6,1995,10553811.0,False
+ppauto,Paid,1990,7,1996,10652299.0,False
+ppauto,Paid,1990,8,1997,10706759.0,False
+ppauto,Paid,1990,9,1998,10735835.667269738,True
+ppauto,Paid,1990,10,1999,10746443.166680856,True
+ppauto,Paid,1991,1,1991,4055293.0,False
+ppauto,Paid,1991,2,1992,7540795.0,False
+ppauto,Paid,1991,3,1993,9133150.0,False
+ppauto,Paid,1991,4,1994,9976820.0,False
+ppauto,Paid,1991,5,1995,10389688.0,False
+ppauto,Paid,1991,6,1996,10581550.0,False
+ppauto,Paid,1991,7,1997,10683005.0,False
+ppauto,Paid,1991,8,1998,10736804.14803566,True
+ppauto,Paid,1991,9,1999,10765962.409817101,True
+ppauto,Paid,1991,10,2000,10776599.675835468,True
+ppauto,Paid,1992,1,1992,4533229.0,False
+ppauto,Paid,1992,2,1993,8309706.0,False
+ppauto,Paid,1992,3,1994,10007847.0,False
+ppauto,Paid,1992,4,1995,10859968.0,False
+ppauto,Paid,1992,5,1996,11293240.0,False
+ppauto,Paid,1992,6,1997,11510540.0,False
+ppauto,Paid,1992,7,1998,11626894.80819213,True
+ppauto,Paid,1992,8,1999,11685447.344204325,True
+ppauto,Paid,1992,9,2000,11717181.86483055,True
+ppauto,Paid,1992,10,2001,11728758.979419779,True
+ppauto,Paid,1993,1,1993,5000921.0,False
+ppauto,Paid,1993,2,1994,9091947.0,False
+ppauto,Paid,1993,3,1995,10851626.0,False
+ppauto,Paid,1993,4,1996,11739855.0,False
+ppauto,Paid,1993,5,1997,12205534.0,False
+ppauto,Paid,1993,6,1998,12455377.355071925,True
+ppauto,Paid,1993,7,1999,12581283.093908677,True
+ppauto,Paid,1993,8,2000,12644641.887773111,True
+ppauto,Paid,1993,9,2001,12678981.321855433,True
+ppauto,Paid,1993,10,2002,12691508.738544118,True
+ppauto,Paid,1994,1,1994,5548306.0,False
+ppauto,Paid,1994,2,1995,9833116.0,False
+ppauto,Paid,1994,3,1996,11596565.0,False
+ppauto,Paid,1994,4,1997,12551999.0,False
+ppauto,Paid,1994,5,1998,13089934.711752713,True
+ppauto,Paid,1994,6,1999,13357881.464926869,True
+ppauto,Paid,1994,7,2000,13492910.206906373,True
+ppauto,Paid,1994,8,2001,13560859.915219083,True
+ppauto,Paid,1994,9,2002,13597687.55014076,True
+ppauto,Paid,1994,10,2003,13611122.690836921,True
+ppauto,Paid,1995,1,1995,5779805.0,False
+ppauto,Paid,1995,2,1996,9965741.0,False
+ppauto,Paid,1995,3,1997,11755294.0,False
+ppauto,Paid,1995,4,1998,12799921.000669532,True
+ppauto,Paid,1995,5,1999,13348481.80073601,True
+ppauto,Paid,1995,6,2000,13621720.929660022,True
+ppauto,Paid,1995,7,2001,13759416.704664264,True
+ppauto,Paid,1995,8,2002,13828708.52809583,True
+ppauto,Paid,1995,9,2003,13866263.567547232,True
+ppauto,Paid,1995,10,2004,13879964.073701173,True
+ppauto,Paid,1996,1,1996,5806947.0,False
+ppauto,Paid,1996,2,1997,9843604.0,False
+ppauto,Paid,1996,3,1998,11812025.672623537,True
+ppauto,Paid,1996,4,1999,12861694.098630086,True
+ppauto,Paid,1996,5,2000,13412902.282226358,True
+ppauto,Paid,1996,6,2001,13687460.07768564,True
+ppauto,Paid,1996,7,2002,13825820.379806701,True
+ppauto,Paid,1996,8,2003,13895446.60925503,True
+ppauto,Paid,1996,9,2004,13933182.891319634,True
+ppauto,Paid,1996,10,2005,13946949.516843274,True
+ppauto,Paid,1997,1,1997,5709532.0,False
+ppauto,Paid,1997,2,1998,10311848.074097399,True
+ppauto,Paid,1997,3,1999,12373904.332542438,True
+ppauto,Paid,1997,4,2000,13473503.761487003,True
+ppauto,Paid,1997,5,2001,14050932.013013978,True
+ppauto,Paid,1997,6,2002,14338550.071840322,True
+ppauto,Paid,1997,7,2003,14483491.9462756,True
+ppauto,Paid,1997,8,2004,14556430.18109726,True
+ppauto,Paid,1997,9,2005,14595961.516117593,True
+ppauto,Paid,1997,10,2006,14610382.99740562,True
+ppauto,Reported incurred,1988,1,1988,6184917.0,False
+ppauto,Reported incurred,1988,2,1989,7729738.0,False
+ppauto,Reported incurred,1988,3,1990,8134176.0,False
+ppauto,Reported incurred,1988,4,1991,8440969.0,False
+ppauto,Reported incurred,1988,5,1992,8580548.0,False
+ppauto,Reported incurred,1988,6,1993,8650879.0,False
+ppauto,Reported incurred,1988,7,1994,8677135.0,False
+ppauto,Reported incurred,1988,8,1995,8688990.0,False
+ppauto,Reported incurred,1988,9,1996,8696357.0,False
+ppauto,Reported incurred,1988,10,1997,8694230.0,False
+ppauto,Reported incurred,1989,1,1989,7033144.0,False
+ppauto,Reported incurred,1989,2,1990,8538968.0,False
+ppauto,Reported incurred,1989,3,1991,9248639.0,False
+ppauto,Reported incurred,1989,4,1992,9575885.0,False
+ppauto,Reported incurred,1989,5,1993,9719737.0,False
+ppauto,Reported incurred,1989,6,1994,9786740.0,False
+ppauto,Reported incurred,1989,7,1995,9817493.0,False
+ppauto,Reported incurred,1989,8,1996,9832353.0,False
+ppauto,Reported incurred,1989,9,1997,9837326.0,False
+ppauto,Reported incurred,1989,10,1998,9834919.935897296,True
+ppauto,Reported incurred,1990,1,1990,7536468.0,False
+ppauto,Reported incurred,1990,2,1991,9405370.0,False
+ppauto,Reported incurred,1990,3,1992,10176141.0,False
+ppauto,Reported incurred,1990,4,1993,10505693.0,False
+ppauto,Reported incurred,1990,5,1994,10653894.0,False
+ppauto,Reported incurred,1990,6,1995,10711719.0,False
+ppauto,Reported incurred,1990,7,1996,10737192.0,False
+ppauto,Reported incurred,1990,8,1997,10749710.0,False
+ppauto,Reported incurred,1990,9,1998,10756872.084380167,True
+ppauto,Reported incurred,1990,10,1999,10754241.112937357,True
+ppauto,Reported incurred,1991,1,1991,7676563.0,False
+ppauto,Reported incurred,1991,2,1992,9518940.0,False
+ppauto,Reported incurred,1991,3,1993,10243550.0,False
+ppauto,Reported incurred,1991,4,1994,10561498.0,False
+ppauto,Reported incurred,1991,5,1995,10677308.0,False
+ppauto,Reported incurred,1991,6,1996,10729424.0,False
+ppauto,Reported incurred,1991,7,1997,10760055.0,False
+ppauto,Reported incurred,1991,8,1998,10774496.428478109,True
+ppauto,Reported incurred,1991,9,1999,10781675.027023982,True
+ppauto,Reported incurred,1991,10,2000,10779037.989149103,True
+ppauto,Reported incurred,1992,1,1992,8592594.0,False
+ppauto,Reported incurred,1992,2,1993,10400807.0,False
+ppauto,Reported incurred,1992,3,1994,11119149.0,False
+ppauto,Reported incurred,1992,4,1995,11458779.0,False
+ppauto,Reported incurred,1992,5,1996,11593616.0,False
+ppauto,Reported incurred,1992,6,1997,11657223.0,False
+ppauto,Reported incurred,1992,7,1998,11690287.804398868,True
+ppauto,Reported incurred,1992,8,1999,11705977.729331013,True
+ppauto,Reported incurred,1992,9,2000,11713776.935100267,True
+ppauto,Reported incurred,1992,10,2001,11710911.918916943,True
+ppauto,Reported incurred,1993,1,1993,9378604.0,False
+ppauto,Reported incurred,1993,2,1994,11266883.0,False
+ppauto,Reported incurred,1993,3,1995,12022995.0,False
+ppauto,Reported incurred,1993,4,1996,12363372.0,False
+ppauto,Reported incurred,1993,5,1997,12510660.0,False
+ppauto,Reported incurred,1993,6,1998,12586586.42619225,True
+ppauto,Reported incurred,1993,7,1999,12622287.297508812,True
+ppauto,Reported incurred,1993,8,2000,12639228.0900268,True
+ppauto,Reported incurred,1993,9,2001,12647649.081670381,True
+ppauto,Reported incurred,1993,10,2002,12644555.654204523,True
+ppauto,Reported incurred,1994,1,1994,10231704.0,False
+ppauto,Reported incurred,1994,2,1995,12089887.0,False
+ppauto,Reported incurred,1994,3,1996,12822239.0,False
+ppauto,Reported incurred,1994,4,1997,13201048.0,False
+ppauto,Reported incurred,1994,5,1998,13375135.045196885,True
+ppauto,Reported incurred,1994,6,1999,13456307.917277217,True
+ppauto,Reported incurred,1994,7,2000,13494475.685811428,True
+ppauto,Reported incurred,1994,8,2001,13512587.071437826,True
+ppauto,Reported incurred,1994,9,2002,13521589.945822341,True
+ppauto,Reported incurred,1994,10,2003,13518282.765377155,True
+ppauto,Reported incurred,1995,1,1995,10486416.0,False
+ppauto,Reported incurred,1995,2,1996,12184707.0,False
+ppauto,Reported incurred,1995,3,1997,12981015.0,False
+ppauto,Reported incurred,1995,4,1998,13392855.37678917,True
+ppauto,Reported incurred,1995,5,1999,13569471.855972826,True
+ppauto,Reported incurred,1995,6,2000,13651824.146206941,True
+ppauto,Reported incurred,1995,7,2001,13690546.48128469,True
+ppauto,Reported incurred,1995,8,2002,13708921.020061277,True
+ppauto,Reported incurred,1995,9,2003,13718054.703584526,True
+ppauto,Reported incurred,1995,10,2004,13714699.470772153,True
+ppauto,Reported incurred,1996,1,1996,10418482.0,False
+ppauto,Reported incurred,1996,2,1997,12030678.0,False
+ppauto,Reported incurred,1996,3,1998,12862910.474219136,True
+ppauto,Reported incurred,1996,4,1999,13271003.824108016,True
+ppauto,Reported incurred,1996,5,2000,13446013.402327526,True
+ppauto,Reported incurred,1996,6,2001,13527616.430798592,True
+ppauto,Reported incurred,1996,7,2002,13565986.460373154,True
+ppauto,Reported incurred,1996,8,2003,13584193.822993742,True
+ppauto,Reported incurred,1996,9,2004,13593244.405976614,True
+ppauto,Reported incurred,1996,10,2005,13589919.699912742,True
+ppauto,Reported incurred,1997,1,1997,10506897.0,False
+ppauto,Reported incurred,1997,2,1998,12624443.160088824,True
+ppauto,Reported incurred,1997,3,1999,13497749.848769179,True
+ppauto,Reported incurred,1997,4,2000,13925984.342260104,True
+ppauto,Reported incurred,1997,5,2001,14109631.387979664,True
+ppauto,Reported incurred,1997,6,2002,14195261.873196216,True
+ppauto,Reported incurred,1997,7,2003,14235525.62702746,True
+ppauto,Reported incurred,1997,8,2004,14254631.60048122,True
+ppauto,Reported incurred,1997,9,2005,14264128.868252242,True
+ppauto,Reported incurred,1997,10,2006,14260640.073794657,True
+prodliab,Paid,1988,1,1988,7613.0,False
+prodliab,Paid,1988,2,1989,17387.0,False
+prodliab,Paid,1988,3,1990,31897.0,False
+prodliab,Paid,1988,4,1991,53838.0,False
+prodliab,Paid,1988,5,1992,69980.0,False
+prodliab,Paid,1988,6,1993,87927.0,False
+prodliab,Paid,1988,7,1994,88956.0,False
+prodliab,Paid,1988,8,1995,91434.0,False
+prodliab,Paid,1988,9,1996,96854.0,False
+prodliab,Paid,1988,10,1997,97795.0,False
+prodliab,Paid,1989,1,1989,7210.0,False
+prodliab,Paid,1989,2,1990,18043.0,False
+prodliab,Paid,1989,3,1991,35038.0,False
+prodliab,Paid,1989,4,1992,55520.0,False
+prodliab,Paid,1989,5,1993,71888.0,False
+prodliab,Paid,1989,6,1994,86013.0,False
+prodliab,Paid,1989,7,1995,94505.0,False
+prodliab,Paid,1989,8,1996,103010.0,False
+prodliab,Paid,1989,9,1997,103963.0,False
+prodliab,Paid,1989,10,1998,104973.06858777128,True
+prodliab,Paid,1990,1,1990,8167.0,False
+prodliab,Paid,1990,2,1991,18086.0,False
+prodliab,Paid,1990,3,1992,36172.0,False
+prodliab,Paid,1990,4,1993,58640.0,False
+prodliab,Paid,1990,5,1994,74056.0,False
+prodliab,Paid,1990,6,1995,87059.0,False
+prodliab,Paid,1990,7,1996,107676.0,False
+prodliab,Paid,1990,8,1997,107597.0,False
+prodliab,Paid,1990,9,1998,111123.54584867622,True
+prodliab,Paid,1990,10,1999,112203.18382587495,True
+prodliab,Paid,1991,1,1991,7182.0,False
+prodliab,Paid,1991,2,1992,20077.0,False
+prodliab,Paid,1991,3,1993,34478.0,False
+prodliab,Paid,1991,4,1994,54466.0,False
+prodliab,Paid,1991,5,1995,67797.0,False
+prodliab,Paid,1991,6,1996,82146.0,False
+prodliab,Paid,1991,7,1997,89771.0,False
+prodliab,Paid,1991,8,1998,93133.20742811804,True
+prodliab,Paid,1991,9,1999,96185.69519292127,True
+prodliab,Paid,1991,10,2000,97120.2021743215,True
+prodliab,Paid,1992,1,1992,7920.0,False
+prodliab,Paid,1992,2,1993,19984.0,False
+prodliab,Paid,1992,3,1994,32893.0,False
+prodliab,Paid,1992,4,1995,46206.0,False
+prodliab,Paid,1992,5,1996,66485.0,False
+prodliab,Paid,1992,6,1997,69519.0,False
+prodliab,Paid,1992,7,1998,77169.54422183044,True
+prodliab,Paid,1992,8,1999,80059.78733828364,True
+prodliab,Paid,1992,9,2000,82683.78717734724,True
+prodliab,Paid,1992,10,2001,83487.11428550884,True
+prodliab,Paid,1993,1,1993,11796.0,False
+prodliab,Paid,1993,2,1994,25029.0,False
+prodliab,Paid,1993,3,1995,46629.0,False
+prodliab,Paid,1993,4,1996,79447.0,False
+prodliab,Paid,1993,5,1997,90381.0,False
+prodliab,Paid,1993,6,1998,106500.13130557442,True
+prodliab,Paid,1993,7,1999,118220.43746912747,True
+prodliab,Paid,1993,8,2000,122648.16616786164,True
+prodliab,Paid,1993,9,2001,126668.021565754,True
+prodliab,Paid,1993,10,2002,127898.68429825215,True
+prodliab,Paid,1994,1,1994,7458.0,False
+prodliab,Paid,1994,2,1995,16424.0,False
+prodliab,Paid,1994,3,1996,61281.0,False
+prodliab,Paid,1994,4,1997,104305.0,False
+prodliab,Paid,1994,5,1998,132011.44165610988,True
+prodliab,Paid,1994,6,1999,155555.21481521428,True
+prodliab,Paid,1994,7,2000,172674.01758683252,True
+prodliab,Paid,1994,8,2001,179141.20481403766,True
+prodliab,Paid,1994,9,2002,185012.64799706137,True
+prodliab,Paid,1994,10,2003,186810.16696132958,True
+prodliab,Paid,1995,1,1995,10076.0,False
+prodliab,Paid,1995,2,1996,43881.0,False
+prodliab,Paid,1995,3,1997,58767.0,False
+prodliab,Paid,1995,4,1998,95505.13554463554,True
+prodliab,Paid,1995,5,1999,120874.0772619675,True
+prodliab,Paid,1995,6,2000,142431.5409194376,True
+prodliab,Paid,1995,7,2001,158106.08748063105,True
+prodliab,Paid,1995,8,2002,164027.65972287027,True
+prodliab,Paid,1995,9,2003,169403.7488560595,True
+prodliab,Paid,1995,10,2004,171049.6171493004,True
+prodliab,Paid,1996,1,1996,19912.0,False
+prodliab,Paid,1996,2,1997,27395.0,False
+prodliab,Paid,1996,3,1998,51625.45190066571,True
+prodliab,Paid,1996,4,1999,83899.05527466335,True
+prodliab,Paid,1996,5,2000,106185.08451554534,True
+prodliab,Paid,1996,6,2001,125122.81833127644,True
+prodliab,Paid,1996,7,2002,138892.54538148554,True
+prodliab,Paid,1996,8,2003,144094.50979974814,True
+prodliab,Paid,1996,9,2004,148817.27990812785,True
+prodliab,Paid,1996,10,2005,150263.1371818961,True
+prodliab,Paid,1997,1,1997,10513.0,False
+prodliab,Paid,1997,2,1998,24834.48574438363,True
+prodliab,Paid,1997,3,1999,46800.20256522888,True
+prodliab,Paid,1997,4,2000,76057.30579251255,True
+prodliab,Paid,1997,5,2001,96260.33829777266,True
+prodliab,Paid,1997,6,2002,113428.02876967286,True
+prodliab,Paid,1997,7,2003,125910.74788383498,True
+prodliab,Paid,1997,8,2004,130626.50299199826,True
+prodliab,Paid,1997,9,2005,134907.85239628947,True
+prodliab,Paid,1997,10,2006,136218.57047819532,True
+prodliab,Reported incurred,1988,1,1988,59136.0,False
+prodliab,Reported incurred,1988,2,1989,53514.0,False
+prodliab,Reported incurred,1988,3,1990,84973.0,False
+prodliab,Reported incurred,1988,4,1991,97150.0,False
+prodliab,Reported incurred,1988,5,1992,101230.0,False
+prodliab,Reported incurred,1988,6,1993,108031.0,False
+prodliab,Reported incurred,1988,7,1994,100452.0,False
+prodliab,Reported incurred,1988,8,1995,104722.0,False
+prodliab,Reported incurred,1988,9,1996,104528.0,False
+prodliab,Reported incurred,1988,10,1997,108832.0,False
+prodliab,Reported incurred,1989,1,1989,32789.0,False
+prodliab,Reported incurred,1989,2,1990,70030.0,False
+prodliab,Reported incurred,1989,3,1991,100139.0,False
+prodliab,Reported incurred,1989,4,1992,102227.0,False
+prodliab,Reported incurred,1989,5,1993,107739.0,False
+prodliab,Reported incurred,1989,6,1994,110615.0,False
+prodliab,Reported incurred,1989,7,1995,113867.0,False
+prodliab,Reported incurred,1989,8,1996,113178.0,False
+prodliab,Reported incurred,1989,9,1997,113545.0,False
+prodliab,Reported incurred,1989,10,1998,118220.28011633246,True
+prodliab,Reported incurred,1990,1,1990,34355.0,False
+prodliab,Reported incurred,1990,2,1991,67812.0,False
+prodliab,Reported incurred,1990,3,1992,88693.0,False
+prodliab,Reported incurred,1990,4,1993,105706.0,False
+prodliab,Reported incurred,1990,5,1994,114864.0,False
+prodliab,Reported incurred,1990,6,1995,114658.0,False
+prodliab,Reported incurred,1990,7,1996,118391.0,False
+prodliab,Reported incurred,1990,8,1997,118177.0,False
+prodliab,Reported incurred,1990,9,1998,118270.82570445159,True
+prodliab,Reported incurred,1990,10,1999,123140.69438874631,True
+prodliab,Reported incurred,1991,1,1991,31301.0,False
+prodliab,Reported incurred,1991,2,1992,61380.0,False
+prodliab,Reported incurred,1991,3,1993,85077.0,False
+prodliab,Reported incurred,1991,4,1994,90888.0,False
+prodliab,Reported incurred,1991,5,1995,92655.0,False
+prodliab,Reported incurred,1991,6,1996,98647.0,False
+prodliab,Reported incurred,1991,7,1997,112375.0,False
+prodliab,Reported incurred,1991,8,1998,113512.22648853356,True
+prodliab,Reported incurred,1991,9,1999,113602.34863255612,True
+prodliab,Reported incurred,1991,10,2000,118279.99011153326,True
+prodliab,Reported incurred,1992,1,1992,30175.0,False
+prodliab,Reported incurred,1992,2,1993,59728.0,False
+prodliab,Reported incurred,1992,3,1994,79356.0,False
+prodliab,Reported incurred,1992,4,1995,82413.0,False
+prodliab,Reported incurred,1992,5,1996,78378.0,False
+prodliab,Reported incurred,1992,6,1997,86858.0,False
+prodliab,Reported incurred,1992,7,1998,89499.02403281853,True
+prodliab,Reported incurred,1992,8,1999,90404.74737722808,True
+prodliab,Reported incurred,1992,9,2000,90476.52351901909,True
+prodliab,Reported incurred,1992,10,2001,94201.9459630136,True
+prodliab,Reported incurred,1993,1,1993,37640.0,False
+prodliab,Reported incurred,1993,2,1994,62469.0,False
+prodliab,Reported incurred,1993,3,1995,98326.0,False
+prodliab,Reported incurred,1993,4,1996,110124.0,False
+prodliab,Reported incurred,1993,5,1997,113495.0,False
+prodliab,Reported incurred,1993,6,1998,118986.20526566789,True
+prodliab,Reported incurred,1993,7,1999,122604.12678907975,True
+prodliab,Reported incurred,1993,8,2000,123844.871265948,True
+prodliab,Reported incurred,1993,9,2001,123943.19693244185,True
+prodliab,Reported incurred,1993,10,2002,129046.6287363339,True
+prodliab,Reported incurred,1994,1,1994,38583.0,False
+prodliab,Reported incurred,1994,2,1995,82504.0,False
+prodliab,Reported incurred,1994,3,1996,116190.0,False
+prodliab,Reported incurred,1994,4,1997,138438.0,False
+prodliab,Reported incurred,1994,5,1998,143108.13127094277,True
+prodliab,Reported incurred,1994,6,1999,150032.10258240928,True
+prodliab,Reported incurred,1994,7,2000,154594.01269563363,True
+prodliab,Reported incurred,1994,8,2001,156158.49239490987,True
+prodliab,Reported incurred,1994,9,2002,156282.47320805496,True
+prodliab,Reported incurred,1994,10,2003,162717.49315187355,True
+prodliab,Reported incurred,1995,1,1995,42039.0,False
+prodliab,Reported incurred,1995,2,1996,92035.0,False
+prodliab,Reported incurred,1995,3,1997,120692.0,False
+prodliab,Reported incurred,1995,4,1998,134409.84908863064,True
+prodliab,Reported incurred,1995,5,1999,138944.092860944,True
+prodliab,Reported incurred,1995,6,2000,145666.59635758668,True
+prodliab,Reported incurred,1995,7,2001,150095.76789917483,True
+prodliab,Reported incurred,1995,8,2002,151614.7257018153,True
+prodliab,Reported incurred,1995,9,2003,151735.099026948,True
+prodliab,Reported incurred,1995,10,2004,157982.87824602792,True
+prodliab,Reported incurred,1996,1,1996,40212.0,False
+prodliab,Reported incurred,1996,2,1997,74026.0,False
+prodliab,Reported incurred,1996,3,1998,104200.23876739852,True
+prodliab,Reported incurred,1996,4,1999,116043.6347705342,True
+prodliab,Reported incurred,1996,5,2000,119958.30420765214,True
+prodliab,Reported incurred,1996,6,2001,125762.2221928114,True
+prodliab,Reported incurred,1996,7,2002,129586.17682257353,True
+prodliab,Reported incurred,1996,8,2003,130897.57911694882,True
+prodliab,Reported incurred,1996,9,2004,131001.50422565572,True
+prodliab,Reported incurred,1996,10,2005,136395.5658568667,True
+prodliab,Reported incurred,1997,1,1997,40779.0,False
+prodliab,Reported incurred,1997,2,1998,73435.64954510008,True
+prodliab,Reported incurred,1997,3,1999,103369.25156888699,True
+prodliab,Reported incurred,1997,4,2000,115118.19759204252,True
+prodliab,Reported incurred,1997,5,2001,119001.6479050286,True
+prodliab,Reported incurred,1997,6,2002,124759.28018485811,True
+prodliab,Reported incurred,1997,7,2003,128552.73913262747,True
+prodliab,Reported incurred,1997,8,2004,129853.68311585477,True
+prodliab,Reported incurred,1997,9,2005,129956.77943149977,True
+prodliab,Reported incurred,1997,10,2006,135307.82392362796,True
+wkcomp,Paid,1988,1,1988,275745.0,False
+wkcomp,Paid,1988,2,1989,615509.0,False
+wkcomp,Paid,1988,3,1990,835148.0,False
+wkcomp,Paid,1988,4,1991,961206.0,False
+wkcomp,Paid,1988,5,1992,1045944.0,False
+wkcomp,Paid,1988,6,1993,1092678.0,False
+wkcomp,Paid,1988,7,1994,1127392.0,False
+wkcomp,Paid,1988,8,1995,1153746.0,False
+wkcomp,Paid,1988,9,1996,1184301.0,False
+wkcomp,Paid,1988,10,1997,1196592.0,False
+wkcomp,Paid,1989,1,1989,295761.0,False
+wkcomp,Paid,1989,2,1990,658038.0,False
+wkcomp,Paid,1989,3,1991,880565.0,False
+wkcomp,Paid,1989,4,1992,1024343.0,False
+wkcomp,Paid,1989,5,1993,1110143.0,False
+wkcomp,Paid,1989,6,1994,1162933.0,False
+wkcomp,Paid,1989,7,1995,1201127.0,False
+wkcomp,Paid,1989,8,1996,1239840.0,False
+wkcomp,Paid,1989,9,1997,1256802.0,False
+wkcomp,Paid,1989,10,1998,1269845.4352263487,True
+wkcomp,Paid,1990,1,1990,307334.0,False
+wkcomp,Paid,1990,2,1991,727425.0,False
+wkcomp,Paid,1990,3,1992,976032.0,False
+wkcomp,Paid,1990,4,1993,1122732.0,False
+wkcomp,Paid,1990,5,1994,1208143.0,False
+wkcomp,Paid,1990,6,1995,1261281.0,False
+wkcomp,Paid,1990,7,1996,1311013.0,False
+wkcomp,Paid,1990,8,1997,1336074.0,False
+wkcomp,Paid,1990,9,1998,1362597.4791054092,True
+wkcomp,Paid,1990,10,1999,1376738.8887771773,True
+wkcomp,Paid,1991,1,1991,336559.0,False
+wkcomp,Paid,1991,2,1992,767298.0,False
+wkcomp,Paid,1991,3,1993,1021479.0,False
+wkcomp,Paid,1991,4,1994,1174879.0,False
+wkcomp,Paid,1991,5,1995,1268225.0,False
+wkcomp,Paid,1991,6,1996,1339985.0,False
+wkcomp,Paid,1991,7,1997,1370814.0,False
+wkcomp,Paid,1991,8,1998,1404760.321722683,True
+wkcomp,Paid,1991,9,1999,1432647.348220706,True
+wkcomp,Paid,1991,10,2000,1447515.7546114638,True
+wkcomp,Paid,1992,1,1992,334079.0,False
+wkcomp,Paid,1992,2,1993,765857.0,False
+wkcomp,Paid,1992,3,1994,995596.0,False
+wkcomp,Paid,1992,4,1995,1151693.0,False
+wkcomp,Paid,1992,5,1996,1259681.0,False
+wkcomp,Paid,1992,6,1997,1305971.0,False
+wkcomp,Paid,1992,7,1998,1347237.4482545059,True
+wkcomp,Paid,1992,8,1999,1380599.9291273989,True
+wkcomp,Paid,1992,9,2000,1408007.3282483607,True
+wkcomp,Paid,1992,10,2001,1422620.0137662322,True
+wkcomp,Paid,1993,1,1993,328578.0,False
+wkcomp,Paid,1993,2,1994,712121.0,False
+wkcomp,Paid,1993,3,1995,918729.0,False
+wkcomp,Paid,1993,4,1996,1066484.0,False
+wkcomp,Paid,1993,5,1997,1136784.0,False
+wkcomp,Paid,1993,6,1998,1189013.1186435614,True
+wkcomp,Paid,1993,7,1999,1226583.8980363912,True
+wkcomp,Paid,1993,8,2000,1256958.5598231878,True
+wkcomp,Paid,1993,9,2001,1281911.4547211018,True
+wkcomp,Paid,1993,10,2002,1295215.482742675,True
+wkcomp,Paid,1994,1,1994,328648.0,False
+wkcomp,Paid,1994,2,1995,699849.0,False
+wkcomp,Paid,1994,3,1996,928669.0,False
+wkcomp,Paid,1994,4,1997,1040958.0,False
+wkcomp,Paid,1994,5,1998,1125431.6620350552,True
+wkcomp,Paid,1994,6,1999,1177139.2017274236,True
+wkcomp,Paid,1994,7,2000,1214334.7856695135,True
+wkcomp,Paid,1994,8,2001,1244406.1150500004,True
+wkcomp,Paid,1994,9,2002,1269109.8212752335,True
+wkcomp,Paid,1994,10,2003,1282280.9904402464,True
+wkcomp,Paid,1995,1,1995,314338.0,False
+wkcomp,Paid,1995,2,1996,703188.0,False
+wkcomp,Paid,1995,3,1997,877773.0,False
+wkcomp,Paid,1995,4,1998,1009792.979585944,True
+wkcomp,Paid,1995,5,1999,1091737.6025994704,True
+wkcomp,Paid,1995,6,2000,1141897.081246078,True
+wkcomp,Paid,1995,7,2001,1177979.0745025994,True
+wkcomp,Paid,1995,8,2002,1207150.104741314,True
+wkcomp,Paid,1995,9,2003,1231114.2119540875,True
+wkcomp,Paid,1995,10,2004,1243891.0522836386,True
+wkcomp,Paid,1996,1,1996,338846.0,False
+wkcomp,Paid,1996,2,1997,644021.0,False
+wkcomp,Paid,1996,3,1998,847478.276952039,True
+wkcomp,Paid,1996,4,1999,974941.8293998123,True
+wkcomp,Paid,1996,5,2000,1054058.2842429068,True
+wkcomp,Paid,1996,6,2001,1102486.6006028764,True
+wkcomp,Paid,1996,7,2002,1137323.2901274252,True
+wkcomp,Paid,1996,8,2003,1165487.5358306104,True
+wkcomp,Paid,1996,9,2004,1188624.5658934799,True
+wkcomp,Paid,1996,10,2005,1200960.4370439702,True
+wkcomp,Paid,1997,1,1997,290360.0,False
+wkcomp,Paid,1997,2,1998,638949.6127680524,True
+wkcomp,Paid,1997,3,1999,840804.7515342537,True
+wkcomp,Paid,1997,4,2000,967264.5835561056,True
+wkcomp,Paid,1997,5,2001,1045758.0304865263,True
+wkcomp,Paid,1997,6,2002,1093804.9947706277,True
+wkcomp,Paid,1997,7,2003,1128367.3604106167,True
+wkcomp,Paid,1997,8,2004,1156309.8248426067,True
+wkcomp,Paid,1997,9,2005,1179264.6607862688,True
+wkcomp,Paid,1997,10,2006,1191503.3922791274,True
+wkcomp,Reported incurred,1988,1,1988,813261.0,False
+wkcomp,Reported incurred,1988,2,1989,1069021.0,False
+wkcomp,Reported incurred,1988,3,1990,1173922.0,False
+wkcomp,Reported incurred,1988,4,1991,1202913.0,False
+wkcomp,Reported incurred,1988,5,1992,1231347.0,False
+wkcomp,Reported incurred,1988,6,1993,1242670.0,False
+wkcomp,Reported incurred,1988,7,1994,1244051.0,False
+wkcomp,Reported incurred,1988,8,1995,1254088.0,False
+wkcomp,Reported incurred,1988,9,1996,1264749.0,False
+wkcomp,Reported incurred,1988,10,1997,1266802.0,False
+wkcomp,Reported incurred,1989,1,1989,852907.0,False
+wkcomp,Reported incurred,1989,2,1990,1134487.0,False
+wkcomp,Reported incurred,1989,3,1991,1226768.0,False
+wkcomp,Reported incurred,1989,4,1992,1284265.0,False
+wkcomp,Reported incurred,1989,5,1993,1306694.0,False
+wkcomp,Reported incurred,1989,6,1994,1313247.0,False
+wkcomp,Reported incurred,1989,7,1995,1325253.0,False
+wkcomp,Reported incurred,1989,8,1996,1336712.0,False
+wkcomp,Reported incurred,1989,9,1997,1335651.0,False
+wkcomp,Reported incurred,1989,10,1998,1337819.0914576726,True
+wkcomp,Reported incurred,1990,1,1990,872428.0,False
+wkcomp,Reported incurred,1990,2,1991,1221627.0,False
+wkcomp,Reported incurred,1990,3,1992,1335927.0,False
+wkcomp,Reported incurred,1990,4,1993,1382921.0,False
+wkcomp,Reported incurred,1990,5,1994,1397564.0,False
+wkcomp,Reported incurred,1990,6,1995,1408274.0,False
+wkcomp,Reported incurred,1990,7,1996,1417162.0,False
+wkcomp,Reported incurred,1990,8,1997,1424275.0,False
+wkcomp,Reported incurred,1990,9,1998,1429552.5358962484,True
+wkcomp,Reported incurred,1990,10,1999,1431873.052738875,True
+wkcomp,Reported incurred,1991,1,1991,936525.0,False
+wkcomp,Reported incurred,1991,2,1992,1266477.0,False
+wkcomp,Reported incurred,1991,3,1993,1397562.0,False
+wkcomp,Reported incurred,1991,4,1994,1445935.0,False
+wkcomp,Reported incurred,1991,5,1995,1465799.0,False
+wkcomp,Reported incurred,1991,6,1996,1481387.0,False
+wkcomp,Reported incurred,1991,7,1997,1486434.0,False
+wkcomp,Reported incurred,1991,8,1998,1497101.4408626587,True
+wkcomp,Reported incurred,1991,9,1999,1502648.8292493662,True
+wkcomp,Reported incurred,1991,10,2000,1505087.9994297333,True
+wkcomp,Reported incurred,1992,1,1992,918413.0,False
+wkcomp,Reported incurred,1992,2,1993,1285402.0,False
+wkcomp,Reported incurred,1992,3,1994,1381992.0,False
+wkcomp,Reported incurred,1992,4,1995,1429247.0,False
+wkcomp,Reported incurred,1992,5,1996,1446489.0,False
+wkcomp,Reported incurred,1992,6,1997,1452592.0,False
+wkcomp,Reported incurred,1992,7,1998,1459880.0635671732,True
+wkcomp,Reported incurred,1992,8,1999,1470356.9392607305,True
+wkcomp,Reported incurred,1992,9,2000,1475805.228058362,True
+wkcomp,Reported incurred,1992,10,2001,1478200.824444051,True
+wkcomp,Reported incurred,1993,1,1993,901945.0,False
+wkcomp,Reported incurred,1993,2,1994,1173250.0,False
+wkcomp,Reported incurred,1993,3,1995,1261915.0,False
+wkcomp,Reported incurred,1993,4,1996,1302804.0,False
+wkcomp,Reported incurred,1993,5,1997,1307759.0,False
+wkcomp,Reported incurred,1993,6,1998,1317360.5225767985,True
+wkcomp,Reported incurred,1993,7,1999,1323970.091698358,True
+wkcomp,Reported incurred,1993,8,2000,1333471.6051574964,True
+wkcomp,Reported incurred,1993,9,2001,1338412.676413291,True
+wkcomp,Reported incurred,1993,10,2002,1340585.2507538726,True
+wkcomp,Reported incurred,1994,1,1994,908266.0,False
+wkcomp,Reported incurred,1994,2,1995,1150856.0,False
+wkcomp,Reported incurred,1994,3,1996,1229202.0,False
+wkcomp,Reported incurred,1994,4,1997,1246935.0,False
+wkcomp,Reported incurred,1994,5,1998,1263600.9593114387,True
+wkcomp,Reported incurred,1994,6,1999,1272878.2750392547,True
+wkcomp,Reported incurred,1994,7,2000,1279264.6641848374,True
+wkcomp,Reported incurred,1994,8,2001,1288445.3477220014,True
+wkcomp,Reported incurred,1994,9,2002,1293219.5778200915,True
+wkcomp,Reported incurred,1994,10,2003,1295318.7925996757,True
+wkcomp,Reported incurred,1995,1,1995,864249.0,False
+wkcomp,Reported incurred,1995,2,1996,1099926.0,False
+wkcomp,Reported incurred,1995,3,1997,1165896.0,False
+wkcomp,Reported incurred,1995,4,1998,1203139.7950104405,True
+wkcomp,Reported incurred,1995,5,1999,1219220.407768617,True
+wkcomp,Reported incurred,1995,6,2000,1228171.8829802454,True
+wkcomp,Reported incurred,1995,7,2001,1234333.9675535976,True
+wkcomp,Reported incurred,1995,8,2002,1243192.204517801,True
+wkcomp,Reported incurred,1995,9,2003,1247798.7527513085,True
+wkcomp,Reported incurred,1995,10,2004,1249824.2383135809,True
+wkcomp,Reported incurred,1996,1,1996,833015.0,False
+wkcomp,Reported incurred,1996,2,1997,1020682.0,False
+wkcomp,Reported incurred,1996,3,1998,1104513.8797840155,True
+wkcomp,Reported incurred,1996,4,1999,1139796.862592827,True
+wkcomp,Reported incurred,1996,5,2000,1155030.8628697284,True
+wkcomp,Reported incurred,1996,6,2001,1163511.0606024473,True
+wkcomp,Reported incurred,1996,7,2002,1169348.7236012658,True
+wkcomp,Reported incurred,1996,8,2003,1177740.591896018,True
+wkcomp,Reported incurred,1996,9,2004,1182104.6144690465,True
+wkcomp,Reported incurred,1996,10,2005,1184023.4622194737,True
+wkcomp,Reported incurred,1997,1,1997,775700.0,False
+wkcomp,Reported incurred,1997,2,1998,1023177.4713330917,True
+wkcomp,Reported incurred,1997,3,1999,1107214.3121655046,True
+wkcomp,Reported incurred,1997,4,2000,1142583.5585433273,True
+wkcomp,Reported incurred,1997,5,2001,1157854.8045157332,True
+wkcomp,Reported incurred,1997,6,2002,1166355.735533002,True
+wkcomp,Reported incurred,1997,7,2003,1172207.6710678954,True
+wkcomp,Reported incurred,1997,8,2004,1180620.0566900433,True
+wkcomp,Reported incurred,1997,9,2005,1184994.7488871347,True
+wkcomp,Reported incurred,1997,10,2006,1186918.28803954,True

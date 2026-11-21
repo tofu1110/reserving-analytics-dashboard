@@ -1,0 +1,776 @@
+company,lob,n_cells,n_negative_paid,n_negative_incurred,n_nonpositive_premium,premium_total,n_paid_decreases,flag_incomplete_triangle,flag_nonpositive_premium,flag_negative_paid,flag_negative_incurred,include_in_analysis
+Aegis Grp,ppauto,35,1,1,1,4524.0,1,true,true,true,true,false
+Agway Ins Co,comauto,55,0,0,0,12090.0,0,false,false,false,false,true
+Alaska Nat Ins Co,prodliab,28,0,0,0,1909.0,1,true,false,false,false,false
+Alaska Timber Ins Exchange,wkcomp,55,0,0,0,115901.0,1,false,false,false,false,true
+Alliance Mut Ins Co,othliab,55,0,0,0,2615.0,2,false,false,false,false,true
+Amerisafe Grp,othliab,55,0,0,0,17362.0,1,false,false,false,false,true
+Amguard Norguard & Eastguard Grp,prodliab,49,0,0,0,40.0,2,true,false,false,false,false
+Armed Forces Ins Exchange,ppauto,15,0,0,0,1309.0,2,true,false,false,false,false
+Atlantic Cas Ins Co,comauto,9,0,0,3,270.0,0,true,true,false,false,false
+Auto Club Ins Assn,othliab,55,0,0,0,11830.0,3,false,false,false,false,true
+Bancinsure Inc,comauto,47,0,0,3,58.0,0,true,true,false,false,false
+Bell United Ins Co,ppauto,3,0,0,0,3874.0,0,true,false,false,false,false
+Brotherhood Mut Ins Co,prodliab,55,0,0,0,244.0,0,false,false,false,false,true
+California Cas Grp,othliab,52,0,0,0,3249.0,1,true,false,false,false,false
+Capital City Ins Co Inc,wkcomp,55,0,0,0,93899.0,7,false,false,false,false,true
+Church Mut Ins Co,othliab,55,0,0,0,18036.0,1,false,false,false,false,true
+Co-Operative Ins Co,comauto,6,0,0,0,142.0,0,true,false,false,false,false
+Continental Natl Ind Co,othliab,42,0,0,8,673.0,0,true,true,false,false,false
+Dorinco Rein Co,ppauto,55,0,0,0,163144.0,0,false,false,false,false,true
+Eastern Dentists Ins Co RRG,othliab,10,0,0,0,417.0,0,true,false,false,false,false
+Employers Security Ins Co,wkcomp,21,0,0,0,23047.0,1,true,false,false,false,false
+Everest Reins Grp,prodliab,6,0,0,0,862.0,0,true,false,false,false,false
+Evergreen USA RRG Inc,othliab,45,0,0,0,3287.0,1,true,false,false,false,false
+FM Global,wkcomp,55,0,0,17,762.0,0,false,true,false,false,false
+Farmers Alliance Mut & Affiliates,othliab,55,0,0,0,23410.0,1,false,false,false,false,true
+Farmers Mut Ins Co,othliab,55,0,0,0,382.0,0,false,false,false,false,true
+Federated Natl Ins Co,comauto,3,0,0,0,163.0,0,true,false,false,false,false
+First Nonprofit Mut Ins Co,wkcomp,15,0,0,0,11100.0,0,true,false,false,false,false
+Florida Lawyers Mut Ins Co,othliab,36,0,0,0,404.0,0,true,false,false,false,false
+Franklin Mut Ins Grp,prodliab,55,5,2,0,1779.0,4,false,false,true,true,false
+Goodville Mut Cas Co,ppauto,55,0,0,0,52943.0,0,false,false,false,false,true
+Great Amer Grp,medmal,10,0,0,0,2254.0,0,true,false,false,false,false
+Hannahstown Mut Ins Co,othliab,55,0,0,0,336.0,0,false,false,false,false,true
+Harco Natl Ins Co,othliab,55,0,0,0,2325.0,0,false,false,false,false,true
+Hastings Mut Ins Co,comauto,55,0,0,0,38399.0,1,false,false,false,false,true
+Homestead Ins Co,othliab,55,0,0,0,82105.0,0,false,false,false,false,true
+Housing Authority Rrg Inc,othliab,55,0,0,0,134766.0,3,false,false,false,false,true
+IMT Ins Co Mut,ppauto,55,0,0,0,151272.0,3,false,false,false,false,true
+Interstate Auto Ins Co Inc,ppauto,3,0,0,0,837.0,0,true,false,false,false,false
+Kentucky Farm Bureau Mut Ins Grp,wkcomp,52,0,0,0,13172.0,1,true,false,false,false,false
+Lebanon Mut Ins Co,comauto,44,1,0,8,1576.0,1,true,true,true,false,false
+Louisiana Pest Control Ins Co,othliab,1,0,0,0,179.0,0,true,false,false,false,false
+MHA Ins Co,wkcomp,30,0,0,5,1660.0,0,true,true,false,false,false
+Medical Mut Ins Co Of ME,othliab,4,0,0,3,116.0,0,true,true,false,false,false
+Mennonite Mut Ins Co,othliab,55,0,0,0,1296.0,2,false,false,false,false,true
+Michigan Millers Mut Ins Co,prodliab,55,1,2,0,6744.0,1,false,false,true,true,false
+Middle States Ins Co Inc,othliab,1,0,0,0,4.0,0,true,false,false,false,false
+Millville Mut Ins Co,othliab,55,0,0,0,1834.0,1,false,false,false,false,true
+Missouri Valley Mut Ins Co,ppauto,55,0,0,0,3810.0,1,false,false,false,false,true
+Mountain West Farm Bu Mut Ins Co,othliab,55,0,0,0,933.0,0,false,false,false,false,true
+NLC Mut Ins Co,wkcomp,28,0,0,0,454.0,0,true,false,false,false,false
+Northwest Gf Mut Ins Co,othliab,55,0,0,0,2274.0,0,false,false,false,false,true
+Oklahoma Farm Grp,othliab,55,0,0,0,5829.0,10,false,false,false,false,true
+Partners Mut Ins Co,prodliab,10,0,0,0,3.0,0,true,false,false,false,false
+Petroleum Cas Co,wkcomp,55,0,0,9,74994.0,0,false,true,false,false,false
+Pioneer State Mut Ins Co,wkcomp,55,0,0,0,18198.0,2,false,false,false,false,true
+Preferred Risk Mut Grp,wkcomp,55,0,0,0,271626.0,1,false,false,false,false,true
+Promutual Grp,medmal,55,0,0,0,367273.0,1,false,false,false,false,true
+Regis Ins Co,othliab,55,0,0,0,18185.0,0,false,false,false,false,true
+Sirius Amer Ins Co,ppauto,55,0,0,0,56151.0,3,false,false,false,false,true
+Southern Mut Ins Co,othliab,28,0,0,0,741.0,0,true,false,false,false,false
+Southland Lloyds Ins Co,ppauto,34,0,0,0,178.0,0,true,false,false,false,false
+Springfield Fire & Cas Co,ppauto,55,0,0,0,12203.0,2,false,false,false,false,true
+States Self-Insurers RRG,othliab,3,0,0,0,1025.0,0,true,false,false,false,false
+Texas Medical Ins Co,medmal,3,0,0,0,29.0,0,true,false,false,false,false
+Tower Ins Co Of NY,wkcomp,6,0,0,0,2568.0,0,true,false,false,false,false
+United Educators Ins RRG Inc,othliab,55,0,0,0,12341.0,1,false,false,false,false,true
+Vanliner Ins Co,ppauto,15,0,0,0,11039.0,0,true,false,false,false,false
+Wellington Ins Co,ppauto,36,0,0,0,10378.0,1,true,false,false,false,false
+Yasuda Fire & Marine Ins Co Of Amer,prodliab,55,0,0,0,13299.0,3,false,false,false,false,true
+Yel Co Ins,comauto,15,0,0,0,3186.0,1,true,false,false,false,false
+Adriatic Ins Co,ppauto,19,0,0,0,64.0,0,true,false,false,false,false
+All Nation Ins Co,ppauto,55,0,0,0,103112.0,0,false,false,false,false,true
+Allstate Ins Co Grp,wkcomp,55,0,0,0,2238741.0,0,false,false,false,false,true
+American Hallmark Ins Co Of TX,ppauto,55,0,0,0,60876.0,0,false,false,false,false,true
+American Modern Ins Grp Inc,prodliab,54,0,0,0,308.0,0,true,false,false,false,false
+Amerisafe Grp,wkcomp,55,0,0,0,347129.0,1,false,false,false,false,true
+Badger Mut Ins Co,ppauto,55,0,0,0,104358.0,1,false,false,false,false,true
+Battle Creek Mut Ins Co,ppauto,55,0,0,0,16248.0,2,false,false,false,false,true
+California Cas Grp,wkcomp,55,0,0,0,864302.0,0,false,false,false,false,true
+Capitol Transamerican Grp,wkcomp,21,0,0,0,10495.0,1,true,false,false,false,false
+Center Mut Ins Co,ppauto,55,0,0,0,19193.0,3,false,false,false,false,true
+Church Mut Ins Co,wkcomp,55,0,0,0,310557.0,0,false,false,false,false,true
+Clinic Mut Ins Co RRG,medmal,55,0,0,0,26917.0,2,false,false,false,false,true
+Colorado Farm Bureau Mut Ins Co,ppauto,55,0,0,0,84367.0,1,false,false,false,false,true
+Continental Natl Ind Co,wkcomp,28,0,0,0,1203.0,1,true,false,false,false,false
+Employers Mut Co Of Des Moines,comauto,55,0,0,0,553119.0,0,false,false,false,false,true
+Farmers Alliance Mut & Affiliates,wkcomp,54,0,0,0,13053.0,3,true,false,false,false,false
+Farmers Ins Co of Flemington,prodliab,39,3,5,11,677.0,1,true,true,true,true,false
+Farmers Mut Ins Co Of NE,comauto,55,0,0,0,6478.0,0,false,false,false,false,true
+Federal Ins Co Grp,prodliab,55,0,0,0,1187378.0,2,false,false,false,false,true
+Finger Lakes Fire & Cas Ins Co,othliab,55,0,0,0,922.0,0,false,false,false,false,true
+First American Specilaty Ins Co,ppauto,55,0,0,0,16376.0,1,false,false,false,false,true
+Fitchburg Mut Ins Co,ppauto,55,1,0,0,53149.0,2,false,false,true,false,false
+Florists Mut Ins Grp,othliab,55,3,0,0,3204.0,13,false,false,true,false,false
+Fulmont Mut Ins Co,prodliab,27,0,0,0,24.0,0,true,false,false,false,false
+Generali Us Branch,ppauto,55,0,0,0,174248.0,1,false,false,false,false,true
+German Mut Ins Co,comauto,55,0,0,0,1100.0,2,false,false,false,false,true
+Germania Ins Grp,othliab,55,0,0,0,22712.0,1,false,false,false,false,true
+Grange Ins Asn Grp,prodliab,55,0,7,0,3624.0,1,false,false,false,true,false
+Grinnell Mut Grp,comauto,55,0,0,0,105505.0,1,false,false,false,false,true
+Harco Natl Ins Co,wkcomp,55,0,0,0,16339.0,1,false,false,false,false,true
+Homestead Ins Co,wkcomp,15,1,0,0,2724.0,3,true,false,true,false,false
+IL State Bar Assoc Mut Ins Co,othliab,45,0,0,0,752.0,2,true,false,false,false,false
+Interboro Mut Ind Ins Co,comauto,55,0,0,0,13923.0,1,false,false,false,false,true
+Kentucky Farm Bureau Mut Ins Grp,othliab,55,0,0,0,18975.0,2,false,false,false,false,true
+Lancer Ins Co,comauto,55,0,0,0,287523.0,0,false,false,false,false,true
+Louisiana Pest Control Ins Co,wkcomp,45,0,0,0,3889.0,5,true,false,false,false,false
+Lumber Ins Cos,ppauto,20,0,0,1,168.0,0,true,true,false,false,false
+MHA Ins Co,othliab,55,1,0,0,789.0,2,false,false,true,false,false
+Markel Corp Grp,medmal,55,0,0,0,228237.0,4,false,false,false,false,true
+Millers Mut Ins Assoc,prodliab,55,0,0,0,10019.0,2,false,false,false,false,true
+NCMIC Ins Co,medmal,3,0,0,0,910.0,0,true,false,false,false,false
+National Catholic RRG,othliab,55,0,0,0,29009.0,1,false,false,false,false,true
+Occidental Fire & Cas Co Grp,othliab,22,0,0,11,1674.0,0,true,true,false,false,false
+Oregon Mut Grp,othliab,55,0,0,0,29730.0,2,false,false,false,false,true
+Overseas Partners Us Reins Co,ppauto,6,0,0,0,6644.0,0,true,false,false,false,false
+Pacific Specialty Ins Co,comauto,15,0,0,0,668.0,0,true,false,false,false,false
+Preferred Mut Ins Co,prodliab,55,0,0,0,2043.0,1,false,false,false,false,true
+Protection Mut Ins Co Of Littlestown,othliab,28,0,0,7,24.0,0,true,true,false,false,false
+Public Underwriters Grp,comauto,45,0,0,0,10171.0,0,true,false,false,false,false
+Pymatuning Mut Fire Ins Co,othliab,15,0,0,0,11.0,0,true,false,false,false,false
+San Antonio Reins Co,ppauto,54,0,0,0,4603.0,0,true,false,false,false,false
+Security Mut Ins Co,othliab,55,0,0,0,2200.0,0,false,false,false,false,true
+Springfield Ins Co Inc,wkcomp,45,0,0,0,54800.0,3,true,false,false,false,false
+Tenn Farmers Mut,othliab,55,0,0,0,44522.0,2,false,false,false,false,true
+Texas Hospital Ins Exch,comauto,6,0,0,0,198.0,0,true,false,false,false,false
+Tower Ins Co Of NY,othliab,28,0,0,0,4555.0,2,true,false,false,false,false
+Transit Mut Ins Corp Of WI,comauto,55,0,0,0,10902.0,2,false,false,false,false,true
+Transportation Cas Ins Co,wkcomp,36,0,0,0,15086.0,2,true,false,false,false,false
+Underwriters At Lloyds London,comauto,49,0,0,8,596.0,0,true,true,false,false,false
+Vermont Mut Ins Co Grp,prodliab,55,1,1,0,66.0,1,false,false,true,true,false
+Virginia Mut Ins Co,comauto,55,0,0,0,15736.0,0,false,false,false,false,true
+West Bend Mut Ins Grp,comauto,55,0,0,0,142808.0,1,false,false,false,false,true
+Wisconsin Mut Ins Co,ppauto,55,0,0,0,69961.0,0,false,false,false,false,true
+American Re Grp,prodliab,55,17,4,0,5874.0,7,false,false,true,true,false
+American Sterling Ins Co,comauto,18,0,0,0,213.0,0,true,false,false,false,false
+Baltica-Skandinavia Rein Co Of Amer,othliab,32,6,3,11,172.0,5,true,true,true,true,false
+Catholic Relief Ins Co Of Amer,comauto,21,0,0,0,1895.0,1,true,false,false,false,false
+Celina Mut Grp,comauto,55,0,0,0,52429.0,0,false,false,false,false,true
+Chicago Mut Ins Co,othliab,55,0,0,0,384.0,0,false,false,false,false,true
+Commerce Grp Inc,wkcomp,55,0,0,11,10908.0,1,false,true,false,false,false
+Commercial Risk Re-Ins Co,wkcomp,1,0,0,0,20190.0,0,true,false,false,false,false
+Diamond Ins Co,wkcomp,3,0,0,0,3256.0,0,true,false,false,false,false
+Distributors Ins Co,wkcomp,55,0,0,0,13697.0,0,false,false,false,false,true
+Dowa Fire & Marine Ins Co Ltd Us Br,othliab,36,0,0,0,137.0,1,true,false,false,false,false
+Farm Bureau Grp,othliab,55,0,0,0,24186.0,3,false,false,false,false,true
+Farm Bureau Of MI Grp,wkcomp,55,0,0,0,165779.0,0,false,false,false,false,true
+Federated Mut Grp,prodliab,55,0,0,0,283064.0,0,false,false,false,false,true
+Gramercy Ins Co,comauto,1,0,0,0,104.0,0,true,false,false,false,false
+Hyundai Marine & Fire Ins Co Ltd,comauto,10,0,0,0,190.0,1,true,false,false,false,false
+IFA Ins Co,ppauto,55,0,0,0,86085.0,0,false,false,false,false,true
+Maine Mut Fire Ins Co,comauto,3,0,0,0,188.0,0,true,false,false,false,false
+Mapfre Reins Corp,ppauto,55,0,0,0,36722.0,1,false,false,false,false,true
+Midwest Family Mut Ins Co,comauto,21,0,0,0,3457.0,1,true,false,false,false,false
+Mutual Benefit Grp,othliab,55,0,0,0,5176.0,0,false,false,false,false,true
+National American Ins Co,othliab,55,0,0,0,26215.0,7,false,false,false,false,true
+New Jersey Manufacturers Grp,ppauto,55,0,0,0,1825656.0,0,false,false,false,false,true
+Nissan Fire & Marine Ins Co Us Br,ppauto,55,0,0,0,2128.0,1,false,false,false,false,true
+Nova Cas Co,ppauto,55,1,0,1,12230.0,1,false,true,true,false,false
+Pacific Ind Ins Co,othliab,21,0,0,0,2906.0,0,true,false,false,false,false
+Patrons Grp,wkcomp,27,0,0,17,95.0,0,true,true,false,false,false
+Penn Miller Grp,prodliab,55,0,0,0,8654.0,1,false,false,false,false,true
+Rainier Ins Co,othliab,28,0,0,0,6236.0,0,true,false,false,false,false
+Secura Ins Co,ppauto,55,0,0,0,402203.0,0,false,false,false,false,true
+Seguros Triples Inc,medmal,55,0,0,0,48575.0,0,false,false,false,false,true
+Standard Cas Co,othliab,55,0,0,0,302.0,1,false,false,false,false,true
+State Farm Mut Grp,wkcomp,55,0,0,0,2905415.0,0,false,false,false,false,true
+State Volunteer Mut Ins Co,medmal,55,0,0,0,491074.0,2,false,false,false,false,true
+State-Wide Ins Co,ppauto,55,0,0,0,136467.0,0,false,false,false,false,true
+Transguard Ins Co Of Amer Inc,othliab,6,0,0,0,141.0,0,true,false,false,false,false
+Utilities Mut Ins Co,wkcomp,55,0,0,0,169086.0,1,false,false,false,false,true
+Agway Ins Co,wkcomp,55,0,0,0,196.0,2,false,false,false,false,true
+American Country Ins Co,prodliab,14,0,0,2,194.0,0,true,true,false,false,false
+Bancinsure Inc,wkcomp,55,0,0,0,2898.0,0,false,false,false,false,true
+Brotherhood Mut Ins Co,ppauto,55,0,0,0,5963.0,4,false,false,false,false,true
+Conemaugh Valley Mut Ins Co,othliab,55,1,0,0,133.0,1,false,false,true,false,false
+Constitutional Cas Co,prodliab,45,0,0,24,309.0,0,true,true,false,false,false
+Controlled Risk Ins Co Of VT Inc,othliab,3,0,0,0,27.0,0,true,false,false,false,false
+Dorinco Rein Co,prodliab,40,0,0,0,70713.0,0,true,false,false,false,false
+Employers Mut Co Of Des Moines,othliab,55,0,0,0,719473.0,0,false,false,false,false,true
+FM Global,comauto,40,0,0,16,12.0,0,true,true,false,false,false
+Farmers Mut Ins Co Of NE,othliab,55,0,0,0,9128.0,1,false,false,false,false,true
+Financial Cas & Surety Inc,wkcomp,36,0,0,0,7487.0,0,true,false,false,false,false
+First Nonprofit Mut Ins Co,comauto,55,0,0,0,7013.0,0,false,false,false,false,true
+Florists Mut Ins Grp,comauto,55,0,0,0,76915.0,0,false,false,false,false,true
+GA Resaurant Mut Captive Ins Co,wkcomp,15,0,0,0,6420.0,0,true,false,false,false,false
+Germania Ins Grp,comauto,55,0,0,0,3857.0,1,false,false,false,false,true
+Goodville Mut Cas Co,prodliab,55,0,0,0,684.0,0,false,false,false,false,true
+Grinnell Mut Grp,othliab,55,0,0,0,196774.0,0,false,false,false,false,true
+Hastings Mut Ins Co,wkcomp,55,0,0,0,190543.0,0,false,false,false,false,true
+Hochheim Prairie Ins Grp,othliab,55,0,0,0,4397.0,1,false,false,false,false,true
+Home State Cnty Mut Ins Co,comauto,16,0,0,1,1489.0,0,true,true,false,false,false
+Horace Mann Grp,wkcomp,55,0,0,0,95.0,0,false,false,false,false,true
+IMT Ins Co Mut,prodliab,55,0,0,0,1415.0,1,false,false,false,false,true
+Kansas Mut Ins Co,othliab,2,0,0,1,21.0,0,true,true,false,false,false
+Kentucky Farm Bureau Mut Ins Grp,comauto,55,0,0,0,34665.0,1,false,false,false,false,true
+Lancer Ins Co,othliab,55,0,0,0,4733.0,0,false,false,false,false,true
+Laundry Owners Mut Liab Ins Asn,wkcomp,55,0,0,0,19661.0,2,false,false,false,false,true
+Lebanon Mut Ins Co,wkcomp,55,0,0,0,7002.0,0,false,false,false,false,true
+Manhattan Re Ins Co,ppauto,52,0,0,0,60.0,0,true,false,false,false,false
+Mlba Limited Liability Pool,othliab,55,0,0,0,32100.0,0,false,false,false,false,true
+National Automotive Ins,ppauto,55,0,0,0,9226.0,4,false,false,false,false,true
+Nodak Mut Ins Co,ppauto,55,0,0,0,93867.0,0,false,false,false,false,true
+Oregon Mut Grp,comauto,55,0,0,0,16769.0,3,false,false,false,false,true
+Overseas Partners Us Reins Co,medmal,3,0,0,0,20.0,0,true,false,false,false,false
+Partners Mut Ins Co,ppauto,55,0,0,0,55117.0,3,false,false,false,false,true
+Pioneer State Mut Ins Co,comauto,1,0,0,0,5.0,0,true,false,false,false,false
+Protective Ins Grp,ppauto,6,0,0,0,19161.0,0,true,false,false,false,false
+Sirius Amer Ins Co,prodliab,54,4,2,7,1611.0,3,true,true,true,true,false
+Southwest General Ins Co,comauto,54,0,0,0,345.0,0,true,false,false,false,false
+Tenn Farmers Mut,comauto,55,0,0,0,32028.0,5,false,false,false,false,true
+Usauto Ins Co,ppauto,6,0,0,0,1468.0,0,true,false,false,false,false
+Virginia Mut Ins Co,othliab,55,10,9,0,2776.0,3,false,false,true,true,false
+Wayne Mut Ins Co,ppauto,55,0,0,0,44748.0,0,false,false,false,false,true
+West Bend Mut Ins Grp,othliab,55,0,0,0,141168.0,0,false,false,false,false,true
+Yasuda Fire & Marine Ins Co Of Amer,ppauto,55,0,0,0,17079.0,5,false,false,false,false,true
+American Mining Ins Co Inc,wkcomp,45,0,0,0,77067.0,0,true,false,false,false,false
+American Resources Ins Co Inc,othliab,55,0,0,0,18842.0,2,false,false,false,false,true
+Brethren Mut Ins Co,othliab,55,0,0,0,7339.0,2,false,false,false,false,true
+Buckeye Ins Grp,ppauto,55,0,0,0,18912.0,5,false,false,false,false,true
+Cameron Mut Grp,comauto,55,0,0,0,15370.0,0,false,false,false,false,true
+Canal Ins Co Grp,comauto,55,0,0,0,797778.0,3,false,false,false,false,true
+Central Co-Operative Ins Co,othliab,52,0,0,16,1673.0,4,true,true,false,false,false
+Century-Natl Ins Co,comauto,55,0,0,0,184652.0,1,false,false,false,false,true
+Chicago Mut Ins Co,prodliab,49,0,1,0,251.0,1,true,false,false,true,false
+Discovery Ins Co,wkcomp,15,0,0,0,22386.0,0,true,false,false,false,false
+Dowa Fire & Marine Ins Co Ltd Us Br,prodliab,30,0,0,4,34.0,0,true,true,false,false,false
+Erie Ins Exchange Grp,comauto,55,0,0,0,667326.0,0,false,false,false,false,true
+Eveready Ins Co,ppauto,55,0,0,0,49215.0,0,false,false,false,false,true
+FL Farm Bureau Grp,prodliab,28,0,0,0,361.0,0,true,false,false,false,false
+Farmers Automobile Grp,ppauto,55,0,0,0,402879.0,3,false,false,false,false,true
+Farmers Mtl Hail Ins Co Of Ia Grp,othliab,55,0,0,0,3626.0,10,false,false,false,false,true
+First Mercury Ins Co,wkcomp,3,0,0,0,52.0,0,true,false,false,false,false
+Golden Bear Ins Co,othliab,55,0,0,0,11198.0,2,false,false,false,false,true
+Health Care Ind Inc,comauto,49,0,0,0,3806.0,2,true,false,false,false,false
+Housing & Redevelopment Ins Exch,othliab,55,0,0,0,11512.0,0,false,false,false,false,true
+Island Ins Cos Grp,wkcomp,55,0,0,0,164562.0,0,false,false,false,false,true
+Lackawanna Cas Co,wkcomp,55,0,0,0,91641.0,0,false,false,false,false,true
+Madison Mut Ins Co,othliab,55,0,0,0,1140.0,0,false,false,false,false,true
+Maple Valley Mut Ins Co,othliab,15,0,0,0,27.0,0,true,false,false,false,false
+Motor Club Ins Assoc,othliab,15,0,0,0,74.0,0,true,false,false,false,false
+NC Farm Bureau Ins Grp,comauto,55,0,0,0,160285.0,1,false,false,false,false,true
+National American Ins Co,prodliab,28,0,0,0,2630.0,0,true,false,false,false,false
+Nichido Fire & Marine Ins Co Ltd,medmal,10,0,0,0,856.0,1,true,false,false,false,false
+Penn Miller Grp,othliab,55,0,0,0,20554.0,2,false,false,false,false,true
+Pennsylvania Natl Ins Grp,comauto,55,0,0,0,462818.0,0,false,false,false,false,true
+Rockford Mut Ins Co,ppauto,55,0,0,0,54838.0,3,false,false,false,false,true
+Samsung Fire & Marine Ins Co Ltd,wkcomp,36,0,0,0,2908.0,1,true,false,false,false,false
+Southern Mut Church Ins Co,othliab,55,0,0,0,153.0,0,false,false,false,false,true
+Sterling Ins Co,othliab,55,0,0,0,2336.0,1,false,false,false,false,true
+THE Ins Co,comauto,55,0,0,0,43821.0,5,false,false,false,false,true
+United Services Automobile Asn Grp,comauto,55,0,0,0,6478.0,0,false,false,false,false,true
+Wisconsin American Mut Ins Co,ppauto,55,0,0,0,26055.0,0,false,false,false,false,true
+Alaska Nat Ins Co,othliab,55,0,0,0,67882.0,0,false,false,false,false,true
+Allstate Ins Co Grp,prodliab,55,0,0,0,301788.0,0,false,false,false,false,true
+American Hallmark Ins Co Of TX,comauto,27,0,0,0,33.0,0,true,false,false,false,false
+Amguard Norguard & Eastguard Grp,othliab,55,0,0,1,376.0,1,false,true,false,false,false
+Badger Mut Ins Co,comauto,55,5,4,0,1432.0,4,false,false,true,true,false
+Brotherhood Mut Ins Co,othliab,55,0,0,0,3566.0,6,false,false,false,false,true
+California Cas Grp,prodliab,48,0,0,8,223.0,1,true,true,false,false,false
+California Healthcare Ins Co Inc,medmal,45,0,0,0,37077.0,1,true,false,false,false,false
+Care West Ins Co,wkcomp,36,0,0,0,34185.0,0,true,false,false,false,false
+Center Mut Ins Co,comauto,55,0,0,0,2468.0,2,false,false,false,false,true
+College Liability Ins Co Ltd RRG,comauto,55,0,0,0,1862.0,8,false,false,false,false,true
+Colorado Farm Bureau Mut Ins Co,comauto,55,0,0,0,12780.0,3,false,false,false,false,true
+Continental Natl Ind Co,prodliab,55,0,0,0,4191.0,4,false,false,false,false,true
+Crusader Ins Co,othliab,55,0,0,0,18123.0,2,false,false,false,false,true
+Elevators Mut Ins Co,comauto,6,0,0,5,101.0,0,true,true,false,false,false
+Employers Mut Co Of Des Moines,ppauto,55,0,0,0,589907.0,0,false,false,false,false,true
+Everett Cash Mut Ins Co,othliab,55,5,0,0,1751.0,3,false,false,true,false,false
+Farmers Alliance Mut & Affiliates,prodliab,55,0,0,0,4133.0,3,false,false,false,false,true
+Farmers Ins Co of Flemington,wkcomp,55,0,0,0,9716.0,0,false,false,false,false,true
+Farmers Mut Ins Co Of NE,ppauto,55,0,0,0,153295.0,1,false,false,false,false,true
+Farmers Union Mut Ins Co,comauto,55,9,8,19,7681.0,2,false,true,true,true,false
+Federal Ins Co Grp,wkcomp,55,0,0,0,2372911.0,3,false,false,false,false,true
+First American Specilaty Ins Co,comauto,45,0,0,0,2676.0,0,true,false,false,false,false
+Firstcomp Ins Co,wkcomp,1,0,0,0,110.0,0,true,false,false,false,false
+Fitchburg Mut Ins Co,comauto,55,0,0,0,1217.0,0,false,false,false,false,true
+Franklin Mut Ins Grp,othliab,55,0,0,0,17932.0,0,false,false,false,false,true
+Generali Us Branch,comauto,6,0,0,0,15073.0,0,true,false,false,false,false
+German Mut Ins Co,ppauto,55,0,0,0,14259.0,5,false,false,false,false,true
+Grinnell Mut Grp,ppauto,55,0,0,0,351763.0,2,false,false,false,false,true
+Harco Natl Ins Co,prodliab,28,0,0,0,94.0,0,true,false,false,false,false
+Housing Authority Prop Ins Inc,othliab,27,0,0,0,1148.0,0,true,false,false,false,false
+Interboro Mut Ind Ins Co,ppauto,55,0,0,0,140359.0,0,false,false,false,false,true
+Lancer Ins Co,ppauto,15,0,0,0,5772.0,0,true,false,false,false,false
+Lawyers Mut Liab Ins Co Of NC,othliab,55,2,0,0,1176.0,5,false,false,true,false,false
+Lumber Ins Cos,comauto,55,0,0,0,123233.0,1,false,false,false,false,true
+MHA Ins Co,medmal,55,0,0,0,165082.0,4,false,false,false,false,true
+Martingale Natl Ins Co,wkcomp,10,0,0,0,31150.0,0,true,false,false,false,false
+Merced Mut Ins Co,othliab,55,0,0,0,1001.0,2,false,false,false,false,true
+Michigan Millers Mut Ins Co,othliab,55,0,0,0,25189.0,1,false,false,false,false,true
+Millers Mut Ins Assoc,wkcomp,55,0,0,0,106389.0,0,false,false,false,false,true
+Montour Mut Ins Co,othliab,55,0,0,0,351.0,2,false,false,false,false,true
+NCMIC Ins Co,othliab,1,0,0,0,33.0,0,true,false,false,false,false
+New Jersey Citizens United Rcp Exch,ppauto,36,0,0,0,46289.0,0,true,false,false,false,false
+Overseas Partners Us Reins Co,comauto,6,0,0,0,5838.0,0,true,false,false,false,false
+Pacific Specialty Ins Co,ppauto,36,0,0,0,51175.0,0,true,false,false,false,false
+Partners Mut Ins Co,othliab,55,0,0,0,1044.0,3,false,false,false,false,true
+Preferred Mut Ins Co,wkcomp,55,0,0,15,10786.0,1,false,true,false,false,false
+Proformance Ins Co (The),othliab,6,0,0,0,130.0,0,true,false,false,false,false
+Protective Ins Grp,othliab,55,0,0,0,56778.0,2,false,false,false,false,true
+Public Underwriters Grp,ppauto,55,0,0,0,238575.0,1,false,false,false,false,true
+Rider Ins Co,ppauto,55,0,0,0,53154.0,0,false,false,false,false,true
+San Antonio Reins Co,comauto,52,0,0,0,449.0,0,true,false,false,false,false
+South Carolina Farm Bureau Mut,othliab,54,0,0,8,110.0,1,true,true,false,false,false
+Standard Mut Ins Co,wkcomp,55,0,0,0,3354.0,2,false,false,false,false,true
+Star Ins Grp,ppauto,19,0,0,0,1013.0,3,true,false,false,false,false
+Triangle Ins Co Inc,comauto,21,0,0,0,269.0,1,true,false,false,false,false
+US Lloyds Ins Co,ppauto,55,0,0,0,6002.0,2,false,false,false,false,true
+Virginia Mut Ins Co,ppauto,55,0,0,0,128601.0,0,false,false,false,false,true
+Wayne Mut Ins Co,othliab,55,0,0,0,809.0,0,false,false,false,false,true
+West Bend Mut Ins Grp,ppauto,55,0,0,0,210516.0,2,false,false,false,false,true
+Wisconsin Mut Ins Co,comauto,55,0,0,0,2705.0,0,false,false,false,false,true
+Yasuda Fire & Marine Ins Co Of Amer,othliab,55,0,0,0,74255.0,1,false,false,false,false,true
+American Assoc Of Othodontists RRG,medmal,6,0,0,0,1517.0,0,true,false,false,false,false
+American Contractors Ins Grp,othliab,55,3,0,0,39800.0,8,false,false,true,false,false
+American Vehicle Ins Co,ppauto,55,0,0,0,133341.0,0,false,false,false,false,true
+Antilles Ins Co,comauto,55,0,0,0,7533.0,1,false,false,false,false,true
+Auto Club South Ins Co,ppauto,36,0,0,8,29367.0,0,true,true,false,false,false
+Benchmark Ins Co,wkcomp,6,0,0,0,7301.0,1,true,false,false,false,false
+Brethren Mut Ins Co,ppauto,55,0,0,0,132076.0,2,false,false,false,false,true
+Buckeye Ins Grp,othliab,55,2,0,0,5049.0,1,false,false,true,false,false
+Capacity Ins Co,othliab,44,0,0,0,764.0,1,true,false,false,false,false
+Catholic Relief Ins Co Of Amer,wkcomp,21,0,0,0,5027.0,0,true,false,false,false,false
+Celina Mut Grp,wkcomp,55,0,0,0,53892.0,2,false,false,false,false,true
+Cities & Villages Mut Ins Co,othliab,55,1,0,0,13207.0,4,false,false,true,false,false
+Columbia Ins Grp,othliab,55,0,0,0,22519.0,1,false,false,false,false,true
+Commercial Risk Re-Ins Co,comauto,1,0,0,0,3360.0,0,true,false,false,false,false
+Contractors Bonding & Ins Co,prodliab,5,0,0,0,6.0,0,true,false,false,false,false
+Distributors Ins Co,comauto,55,0,0,0,6020.0,4,false,false,false,false,true
+Farm Bureau Of MI Grp,comauto,55,0,0,0,59467.0,3,false,false,false,false,true
+Farmers Automobile Grp,othliab,55,0,0,0,33445.0,0,false,false,false,false,true
+Farmers Mtl Hail Ins Co Of Ia Grp,ppauto,55,0,0,0,22069.0,0,false,false,false,false,true
+Health Care Ind Inc,medmal,45,0,0,0,9300.0,1,true,false,false,false,false
+Hyundai Marine & Fire Ins Co Ltd,wkcomp,10,0,0,0,523.0,0,true,false,false,false,false
+Madison Mut Ins Co,ppauto,55,0,0,0,108095.0,3,false,false,false,false,true
+Midwest Family Mut Ins Co,wkcomp,6,0,0,0,432.0,0,true,false,false,false,false
+Motor Club Ins Assoc,ppauto,55,0,0,0,66507.0,1,false,false,false,false,true
+New Jersey Manufacturers Grp,prodliab,40,0,0,0,522.0,0,true,false,false,false,false
+Nichido Fire & Marine Ins Co Ltd,comauto,55,0,0,0,8839.0,0,false,false,false,false,true
+Ocean Harbor Cas Ins Co,ppauto,22,0,0,2,33114.0,3,true,true,false,false,false
+Old American Cty Mut Fire Ins Co,ppauto,55,0,0,0,11718.0,4,false,false,false,false,true
+Penn Miller Grp,ppauto,54,0,0,0,2321.0,0,true,false,false,false,false
+Philadelphia CBSP Grp,othliab,55,0,0,0,1670.0,2,false,false,false,false,true
+Preferred Professional Ins Co,othliab,15,0,0,0,474.0,1,true,false,false,false,false
+Red Shield Ins Co,wkcomp,55,0,0,0,12192.0,3,false,false,false,false,true
+Rockford Mut Ins Co,othliab,55,0,0,0,32915.0,0,false,false,false,false,true
+Scpie Indemnity Co,othliab,55,0,0,0,9590.0,1,false,false,false,false,true
+Southern Group Ind Inc,comauto,25,0,0,4,1555.0,0,true,true,false,false,false
+State Farm Mut Grp,comauto,55,0,0,0,3543796.0,0,false,false,false,false,true
+Sterling Ins Co,ppauto,45,0,0,17,7945.0,2,true,true,false,false,false
+Utah Medical Ins Assoc,medmal,55,0,0,0,148280.0,1,false,false,false,false,true
+Wea Prop & Cas Ins Co,ppauto,10,0,0,0,4320.0,0,true,false,false,false,false
+Wisconsin American Mut Ins Co,othliab,55,0,0,0,967.0,0,false,false,false,false,true
+Wolverine Mut Ins Co,comauto,47,0,0,2,477.0,0,true,true,false,false,false
+Aegis Grp,othliab,1,0,0,0,8.0,0,true,false,false,false,false
+Alliance Mut Ins Co,ppauto,55,0,0,0,6823.0,1,false,false,false,false,true
+American Modern Ins Grp Inc,comauto,21,0,0,0,9866.0,0,true,false,false,false,false
+Amerisafe Grp,ppauto,55,0,0,0,14198.0,0,false,false,false,false,true
+Armed Forces Ins Exchange,othliab,55,0,0,0,15337.0,1,false,false,false,false,true
+British Amer Ins Co,othliab,55,0,0,0,45428.0,1,false,false,false,false,true
+Colorado Farm Bureau Mut Ins Co,wkcomp,11,0,0,1,262.0,0,true,true,false,false,false
+Dorinco Rein Co,othliab,55,4,0,1,248069.0,5,false,true,true,false,false
+Employers Mut Co Of Des Moines,prodliab,55,0,0,0,99060.0,0,false,false,false,false,true
+Farmers Alliance Mut & Affiliates,ppauto,55,0,0,0,174317.0,2,false,false,false,false,true
+Federal Ins Co Grp,comauto,55,0,0,0,1086150.0,0,false,false,false,false,true
+First Amer Ins Co,comauto,13,0,0,1,8372.0,0,true,true,false,false,false
+Fitchburg Mut Ins Co,wkcomp,55,1,0,0,2206.0,2,false,false,true,false,false
+Florida Hospitality Mut Ins Co,wkcomp,55,0,0,0,372549.0,0,false,false,false,false,true
+General Eastern Ski Ins RRG Inc,othliab,10,0,0,0,1450.0,0,true,false,false,false,false
+Generali Us Branch,wkcomp,49,0,0,0,2616.0,0,true,false,false,false,false
+German Mut Ins Co,prodliab,55,0,0,0,252.0,0,false,false,false,false,true
+Goodville Mut Cas Co,othliab,55,0,0,0,10897.0,0,false,false,false,false,true
+Grange Ins Asn Grp,comauto,55,0,0,0,31134.0,3,false,false,false,false,true
+Grinnell Mut Grp,prodliab,55,0,0,0,15514.0,0,false,false,false,false,true
+Harbor Ins Co,ppauto,15,0,0,0,7983.0,0,true,false,false,false,false
+Hawaii Employers Mut Ins Co,wkcomp,1,0,0,0,336.0,0,true,false,false,false,false
+Homestead Ins Co,ppauto,31,0,0,4,7273.0,0,true,true,false,false,false
+IMT Ins Co Mut,othliab,55,0,0,0,53121.0,7,false,false,false,false,true
+Imperial Cas & Ind Co,prodliab,19,0,0,9,8.0,0,true,true,false,false,false
+Lumber Ins Cos,wkcomp,55,0,0,0,237720.0,0,false,false,false,false,true
+Martingale Natl Ins Co,comauto,10,0,0,0,4189.0,0,true,false,false,false,false
+Mennonite Mut Ins Co,ppauto,21,0,0,0,3169.0,0,true,false,false,false,false
+Middle States Ins Co Inc,ppauto,45,0,0,0,15290.0,3,true,false,false,false,false
+Millers Mut Ins Assoc,comauto,55,0,0,0,32557.0,0,false,false,false,false,true
+Missouri Valley Mut Ins Co,othliab,55,0,0,0,123.0,4,false,false,false,false,true
+Mountain West Farm Bu Mut Ins Co,ppauto,55,0,0,0,82532.0,3,false,false,false,false,true
+Nevada General Ins Co,ppauto,10,0,0,0,30683.0,0,true,false,false,false,false
+Northwest Gf Mut Ins Co,ppauto,18,0,0,7,7.0,1,true,true,false,false,false
+Oklahoma Farm Grp,ppauto,55,0,0,0,245050.0,1,false,false,false,false,true
+Philadelphia Ind Ins Co & Aff,othliab,15,0,0,0,58216.0,0,true,false,false,false,false
+Physicians Recip Insurers,medmal,55,0,0,0,928718.0,0,false,false,false,false,true
+Preferred Mut Ins Co,comauto,55,0,0,0,5441.0,1,false,false,false,false,true
+Sheboygan Falls Mut Ins Co,othliab,55,0,0,0,1032.0,0,false,false,false,false,true
+Sirius Amer Ins Co,othliab,55,0,0,0,16352.0,1,false,false,false,false,true
+Southern Mut Ins Co,ppauto,3,0,0,0,401.0,0,true,false,false,false,false
+Standard Mut Ins Co,comauto,55,0,0,0,2580.0,3,false,false,false,false,true
+State Fund Mut Ins Co,wkcomp,55,0,0,0,487369.0,0,false,false,false,false,true
+Underwriters At Lloyds London,prodliab,55,0,0,0,275.0,1,false,false,false,false,true
+Vanliner Ins Co,othliab,55,0,0,0,20811.0,7,false,false,false,false,true
+Virginia Mut Ins Co,prodliab,55,0,0,0,607.0,0,false,false,false,false,true
+West Bend Mut Ins Grp,prodliab,55,0,0,0,28494.0,0,false,false,false,false,true
+American Resources Ins Co Inc,comauto,55,0,0,0,8260.0,2,false,false,false,false,true
+American Vehicle Ins Co,comauto,46,1,1,1,4290.0,1,true,true,true,true,false
+Antilles Ins Co,ppauto,55,0,0,8,1442.0,0,false,true,false,false,false
+Beacon Mut Ins Co,wkcomp,21,0,0,0,418568.0,0,true,false,false,false,false
+Bedford Grange Mut Ins Co,othliab,10,0,0,0,37.0,0,true,false,false,false,false
+Brethren Mut Ins Co,comauto,55,0,0,0,6141.0,0,false,false,false,false,true
+Cameron Mut Grp,othliab,55,0,0,0,15730.0,1,false,false,false,false,true
+Campmed Cas & Ind Co Inc MD,prodliab,15,0,0,0,5566.0,0,true,false,false,false,false
+Canal Ins Co Grp,othliab,45,0,0,0,2922.0,0,true,false,false,false,false
+Celina Mut Grp,prodliab,55,0,0,0,9813.0,1,false,false,false,false,true
+Erie Ins Exchange Grp,othliab,55,0,0,0,263934.0,2,false,false,false,false,true
+Farm Bureau Of MI Grp,ppauto,55,0,0,0,439679.0,0,false,false,false,false,true
+Farmers Mtl Hail Ins Co Of Ia Grp,comauto,25,0,0,10,104.0,0,true,true,false,false,false
+Fremont Mut Ins Co,othliab,55,0,0,0,2741.0,1,false,false,false,false,true
+Governmental Interins Exch,comauto,55,0,0,0,19988.0,0,false,false,false,false,true
+Halifax Mut Ins Co,othliab,20,0,0,0,105.0,0,true,false,false,false,false
+Health Care Ind Inc,othliab,3,0,0,0,790.0,0,true,false,false,false,false
+Housing & Redevelopment Ins Exch,comauto,15,0,0,14,168.0,0,true,true,false,false,false
+Hyundai Marine & Fire Ins Co Ltd,prodliab,7,0,0,0,5.0,0,true,false,false,false,false
+Illinois Cas Co,prodliab,40,0,0,0,93.0,0,true,false,false,false,false
+Inland Mut Ins Co,ppauto,45,0,0,0,51.0,2,true,false,false,false,false
+Louisiana Farm Bureau Mut Ins Co,othliab,43,5,5,8,155.0,6,true,true,true,true,false
+MO Employers Mut Ins Co,wkcomp,6,0,0,0,195324.0,0,true,false,false,false,false
+Mapfre Reins Corp,wkcomp,45,0,0,0,302.0,1,true,false,false,false,false
+Midstates Rein Corp,comauto,55,0,0,5,3918.0,2,false,true,false,false,false
+Millers Capital Ins Co,wkcomp,3,0,0,0,271.0,0,true,false,false,false,false
+Mississippi Farm Bureau Mut Ins Co,othliab,47,0,0,2,57.0,0,true,true,false,false,false
+NC Farm Bureau Ins Grp,othliab,55,0,0,0,43790.0,0,false,false,false,false,true
+National Fire & Cas Co,othliab,55,0,0,0,3806.0,2,false,false,false,false,true
+New Jersey Manufacturers Grp,wkcomp,55,0,0,0,2738156.0,0,false,false,false,false,true
+Nichido Fire & Marine Ins Co Ltd,ppauto,1,0,0,0,385.0,0,true,false,false,false,false
+Nissan Fire & Marine Ins Co Us Br,wkcomp,55,0,0,0,3292.0,0,false,false,false,false,true
+Old American Cty Mut Fire Ins Co,comauto,55,0,0,0,1719.0,1,false,false,false,false,true
+Omega Ins Co,wkcomp,34,0,0,0,881.0,1,true,false,false,false,false
+Pennsylvania Lumbermens Mut Ins,wkcomp,55,0,0,0,38753.0,0,false,false,false,false,true
+Preferred Professional Ins Co,medmal,55,0,0,0,56033.0,1,false,false,false,false,true
+Scpie Indemnity Co,medmal,55,0,0,0,1049205.0,1,false,false,false,false,true
+Secura Ins Co,wkcomp,55,0,0,0,95467.0,1,false,false,false,false,true
+Southern Group Ind Inc,ppauto,28,0,0,0,24072.0,1,true,false,false,false,false
+State Farm Mut Grp,ppauto,55,0,0,0,117655840.0,0,false,false,false,false,true
+THE Ins Co,othliab,55,0,0,0,34383.0,4,false,false,false,false,true
+Toa-Re Ins Co Of Amer,othliab,55,0,0,0,74965.0,0,false,false,false,false,true
+United Services Automobile Asn Grp,othliab,55,0,0,0,646894.0,0,false,false,false,false,true
+Wolverine Mut Ins Co,ppauto,55,0,0,0,41265.0,0,false,false,false,false,true
+Zurich Ins (Guam) Inc,wkcomp,1,0,0,0,55.0,0,true,false,false,false,false
+Agway Ins Co,othliab,55,0,0,0,597.0,1,false,false,false,false,true
+Alliance Mut Ins Co,comauto,55,7,6,0,2404.0,3,false,false,true,true,false
+American Modern Ins Grp Inc,ppauto,10,0,0,0,2537.0,0,true,false,false,false,false
+Amerisafe Grp,comauto,40,0,0,6,362.0,0,true,true,false,false,false
+Atlantic Cas Ins Co,othliab,1,0,0,0,6.0,0,true,false,false,false,false
+Bancinsure Inc,othliab,36,0,0,0,48.0,0,true,false,false,false,false
+California Cas Grp,comauto,55,0,0,3,12935.0,1,false,true,false,false,false
+Carolina Farmers Mut Ins Co,othliab,1,0,0,0,8.0,0,true,false,false,false,false
+Church Mut Ins Co,comauto,55,0,0,0,123653.0,0,false,false,false,false,true
+Co-Operative Ins Co,othliab,55,0,0,0,7221.0,4,false,false,false,false,true
+Continental Natl Ind Co,comauto,55,0,0,0,55100.0,0,false,false,false,false,true
+Cooperative Mut Ins Co,comauto,15,0,0,0,414.0,0,true,false,false,false,false
+Evergreen USA RRG Inc,comauto,36,0,0,0,657.0,2,true,false,false,false,false
+FFVA Mut Ins Co,wkcomp,55,0,0,0,341670.0,2,false,false,false,false,true
+Farmers Alliance Mut & Affiliates,comauto,55,0,0,0,59794.0,0,false,false,false,false,true
+Federal Ins Co Grp,ppauto,55,0,0,0,1270861.0,1,false,false,false,false,true
+First Amer Ins Co,ppauto,55,0,0,10,36222.0,2,false,true,false,false,false
+Frederick Mut Ins Co,othliab,55,0,0,0,340.0,0,false,false,false,false,true
+Grinnell Mut Grp,wkcomp,55,0,0,0,200467.0,1,false,false,false,false,true
+Gulf States Ins Co,othliab,55,0,0,0,7671.0,5,false,false,false,false,true
+Harco Natl Ins Co,comauto,55,0,0,0,204951.0,0,false,false,false,false,true
+Hastings Mut Ins Co,othliab,55,0,0,0,13525.0,1,false,false,false,false,true
+Homestead Ins Co,comauto,55,0,0,0,16071.0,4,false,false,false,false,true
+Horace Mann Grp,othliab,55,0,0,0,41394.0,0,false,false,false,false,true
+Housing Authority Rrg Inc,comauto,28,0,0,0,5362.0,2,true,false,false,false,false
+Lebanon Mut Ins Co,othliab,55,0,0,0,4043.0,2,false,false,false,false,true
+Lumber Ins Cos,prodliab,52,0,0,0,192.0,1,true,false,false,false,false
+Lumbermens Underwriting Alliance,wkcomp,55,0,0,0,677160.0,0,false,false,false,false,true
+Mennonite Mut Ins Co,comauto,15,0,0,0,476.0,4,true,false,false,false,false
+Middle States Ins Co Inc,comauto,15,0,0,0,3178.0,2,true,false,false,false,false
+Midstate Mut Ins Co,othliab,55,0,0,0,1599.0,0,false,false,false,false,true
+Millers Mut Ins Assoc,ppauto,55,0,0,0,155743.0,1,false,false,false,false,true
+Mountain West Farm Bu Mut Ins Co,comauto,55,0,0,0,4384.0,1,false,false,false,false,true
+NHC Ins Co,wkcomp,1,0,0,0,4576.0,0,true,false,false,false,false
+Oklahoma Farm Grp,comauto,55,0,0,0,8872.0,3,false,false,false,false,true
+Overseas Partners Us Reins Co,prodliab,6,0,0,0,446.0,0,true,false,false,false,false
+Physicians Recip Insurers,othliab,6,0,0,0,188.0,0,true,false,false,false,false
+Preferred Mut Ins Co,ppauto,55,0,0,0,141341.0,1,false,false,false,false,true
+Service Ins Co,comauto,34,0,0,0,49.0,0,true,false,false,false,false
+Standard Mut Ins Co,ppauto,55,0,0,0,149084.0,0,false,false,false,false,true
+Star Cas Ins Co,ppauto,55,0,0,0,38296.0,1,false,false,false,false,true
+Underwriters At Lloyds London,wkcomp,55,0,0,1,974.0,0,false,true,false,false,false
+Universal Surety Grp,othliab,19,0,0,0,30.0,0,true,false,false,false,false
+Virginia Mut Ins Co,wkcomp,55,0,0,0,3076.0,6,false,false,false,false,true
+Wawanesa Ins Grp,ppauto,55,0,0,0,377465.0,3,false,false,false,false,true
+West Bend Mut Ins Grp,wkcomp,55,0,0,0,482874.0,0,false,false,false,false,true
+Wi Lawyers Mut Ins Co,othliab,55,0,0,0,628.0,0,false,false,false,false,true
+Workers Comp Exch,wkcomp,55,0,0,0,41709.0,0,false,false,false,false,true
+American Contractors Ins Grp,comauto,55,2,2,0,6472.0,14,false,false,true,true,false
+Antilles Ins Co,othliab,55,0,0,0,1654.0,1,false,false,false,false,true
+Buckeye Ins Grp,comauto,1,0,0,0,19.0,0,true,false,false,false,false
+Cameron Mut Grp,ppauto,55,0,0,0,147437.0,0,false,false,false,false,true
+Capacity Ins Co,comauto,21,0,0,0,593.0,0,true,false,false,false,false
+Century-Natl Ins Co,ppauto,3,0,0,0,3247.0,0,true,false,false,false,false
+Chicago Mut Ins Co,wkcomp,52,0,0,0,1704.0,2,true,false,false,false,false
+Columbia Ins Grp,comauto,55,0,0,0,24973.0,2,false,false,false,false,true
+Commercial Risk Re-Ins Co,othliab,10,0,0,0,23157.0,0,true,false,false,false,false
+Cooperativa D Seguros Multiples PR,prodliab,21,0,0,0,635.0,0,true,false,false,false,false
+Distributors Ins Co,othliab,55,0,1,0,17299.0,1,false,false,false,true,false
+Dowa Fire & Marine Ins Co Ltd Us Br,wkcomp,36,0,0,0,1634.0,1,true,false,false,false,false
+Eveready Ins Co,comauto,55,0,0,0,28982.0,0,false,false,false,false,true
+FL Farm Bureau Grp,wkcomp,55,0,0,20,14483.0,0,false,true,false,false,false
+Farm Bureau Grp,wkcomp,11,0,0,0,483.0,0,true,false,false,false,false
+Farm Bureau Of MI Grp,othliab,55,0,0,0,15626.0,3,false,false,false,false,true
+Farmers Automobile Grp,comauto,55,0,0,0,121671.0,0,false,false,false,false,true
+First Fncl Ins Co,prodliab,50,0,0,5,1847.0,0,true,true,false,false,false
+Gibraltar Natl Ins Co,othliab,45,0,0,0,666.0,0,true,false,false,false,false
+Gold Medal Ins Co,othliab,55,0,0,11,1287.0,1,false,true,false,false,false
+Goldstreet Ins Co,wkcomp,10,0,0,0,11.0,0,true,false,false,false,false
+Island Ins Cos Grp,prodliab,55,0,0,0,14099.0,1,false,false,false,false,true
+Juniata Mut Ins Co,othliab,55,0,0,0,525.0,1,false,false,false,false,true
+Leatherstocking Coop Ins  Co,prodliab,3,0,0,0,2.0,0,true,false,false,false,false
+Lutheran Mut Fire Ins Co,othliab,27,0,0,0,9.0,0,true,false,false,false,false
+Marysville Mut Ins Co,othliab,55,0,0,0,615.0,1,false,false,false,false,true
+Mid-Hudson Co-Operative Ins Co,othliab,55,1,0,0,629.0,4,false,false,true,false,false
+Mutual Benefit Grp,wkcomp,55,0,0,0,64881.0,6,false,false,false,false,true
+NC Farm Bureau Ins Grp,ppauto,55,0,0,0,1408635.0,0,false,false,false,false,true
+National American Ins Co,wkcomp,55,0,0,0,197190.0,2,false,false,false,false,true
+Nichido Fire & Marine Ins Co Ltd,othliab,55,0,0,0,45747.0,0,false,false,false,false,true
+Nonprofits Ins Assn Interins,prodliab,19,0,0,4,69.0,0,true,true,false,false,false
+Pacific Ind Ins Co,wkcomp,20,0,0,5,6530.0,0,true,true,false,false,false
+Pacific Pioneer Ins Co,ppauto,10,0,0,0,16826.0,0,true,false,false,false,false
+Pennsylvania Mfg Asn Ins Co,ppauto,10,0,0,0,2248.0,0,true,false,false,false,false
+Rainier Ins Co,wkcomp,28,0,0,0,2502.0,0,true,false,false,false,false
+Rockford Mut Ins Co,comauto,55,0,0,0,4435.0,2,false,false,false,false,true
+Samsung Fire & Marine Ins Co Ltd,prodliab,36,1,0,0,7191.0,4,true,false,true,false,false
+Spartan Ins Co,ppauto,55,0,0,0,29257.0,0,false,false,false,false,true
+State Farm Mut Grp,othliab,55,0,0,0,2414413.0,0,false,false,false,false,true
+Toa-Re Ins Co Of Amer,ppauto,55,0,0,0,80711.0,2,false,false,false,false,true
+Transguard Ins Co Of Amer Inc,wkcomp,6,0,0,0,3.0,0,true,false,false,false,false
+Tri-State Consumer Ins Co,othliab,6,0,0,0,3.0,0,true,false,false,false,false
+United Services Automobile Asn Grp,ppauto,55,0,0,0,17482366.0,0,false,false,false,false,true
+Wisconsin Cnty Mut Ins Corp,wkcomp,1,0,0,0,63.0,0,true,false,false,false,false
+Wolverine Mut Ins Co,othliab,55,0,0,0,1720.0,1,false,false,false,false,true
+Agency Ins Co Of MD Inc,ppauto,36,0,0,0,49845.0,0,true,false,false,false,false
+American Contractors Ins Grp,wkcomp,36,0,0,0,33774.0,7,true,false,false,false,false
+American Sterling Ins Co,othliab,27,0,0,0,194.0,0,true,false,false,false,false
+Buckeye Ins Grp,wkcomp,22,0,0,0,13.0,0,true,false,false,false,false
+Campmed Cas & Ind Co Inc MD,othliab,6,0,0,0,40.0,0,true,false,false,false,false
+Catholic Relief Ins Co Of Amer,othliab,34,0,0,1,1003.0,1,true,true,false,false,false
+Chicago Mut Ins Co,comauto,55,0,0,0,1273.0,0,false,false,false,false,true
+Cooperativa D Seguros Multiples PR,ppauto,55,0,0,0,166481.0,0,false,false,false,false,true
+Dentists Ins Co,medmal,55,0,0,0,206299.0,5,false,false,false,false,true
+Dowa Fire & Marine Ins Co Ltd Us Br,comauto,28,0,0,0,101.0,0,true,false,false,false,false
+FL Farm Bureau Grp,comauto,55,0,0,0,246195.0,1,false,false,false,false,true
+Farm Bureau Grp,comauto,55,0,0,0,12065.0,2,false,false,false,false,true
+Farmers Automobile Grp,wkcomp,55,0,0,0,252542.0,0,false,false,false,false,true
+Franklin Cas Ins Co RRG,medmal,1,0,0,0,355.0,0,true,false,false,false,false
+Gramercy Ins Co,othliab,16,0,0,0,110.0,0,true,false,false,false,false
+Haulers Ins Co Inc,ppauto,55,0,0,0,41106.0,12,false,false,false,false,true
+Hyundai Marine & Fire Ins Co Ltd,othliab,10,0,0,0,963.0,0,true,false,false,false,false
+Illinois Cas Co,othliab,55,0,0,0,46556.0,0,false,false,false,false,true
+Island Ins Cos Grp,ppauto,55,0,0,0,314145.0,1,false,false,false,false,true
+Lg Ins Co Ltd Us Branch,othliab,12,0,0,0,2.0,0,true,false,false,false,false
+Maine Mut Fire Ins Co,othliab,55,0,0,0,3452.0,2,false,false,false,false,true
+Michigan Professional Ins Exch,medmal,21,0,0,0,1968.0,0,true,false,false,false,false
+Midwest Family Mut Ins Co,othliab,55,0,0,0,859.0,1,false,false,false,false,true
+Mutual Benefit Grp,comauto,55,0,0,0,22367.0,0,false,false,false,false,true
+Mutual Ins Co Of Lehigh Cnty,othliab,55,1,0,0,900.0,2,false,false,true,false,false
+National American Ins Co,comauto,55,0,0,0,152502.0,3,false,false,false,false,true
+National Unity Ins Co,ppauto,55,0,0,0,9928.0,0,false,false,false,false,true
+New York Marine & General Ins Co,comauto,5,0,0,0,35.0,0,true,false,false,false,false
+Pacific Ind Ins Co,comauto,21,0,0,6,1618.0,0,true,true,false,false,false
+Pennsylvania Natl Ins Grp,prodliab,55,0,0,0,66879.0,1,false,false,false,false,true
+Red Shield Ins Co,othliab,55,0,0,0,17950.0,3,false,false,false,false,true
+Rockford Mut Ins Co,wkcomp,13,0,0,0,29.0,0,true,false,false,false,false
+Seguros Triples Inc,ppauto,55,0,0,0,4322.0,0,false,false,false,false,true
+Shelter Ins Cos Grp,wkcomp,28,0,0,1,80.0,0,true,true,false,false,false
+Southern MI Mut Ins Co,othliab,55,0,0,0,73.0,0,false,false,false,false,true
+Traders Ins Co,othliab,45,0,0,0,435.0,0,true,false,false,false,false
+Transguard Ins Co Of Amer Inc,comauto,55,0,0,0,29701.0,1,false,false,false,false,true
+United Services Automobile Asn Grp,prodliab,10,0,0,0,5722.0,0,true,false,false,false,false
+Wisconsin American Mut Ins Co,wkcomp,6,0,0,0,326.0,0,true,false,false,false,false
+Adriatic Ins Co,othliab,6,0,0,0,92.0,0,true,false,false,false,false
+Alaska Nat Ins Co,comauto,55,0,0,0,50107.0,1,false,false,false,false,true
+Allegheny Cas Co,ppauto,19,0,0,0,16712.0,0,true,false,false,false,false
+Amguard Norguard & Eastguard Grp,comauto,33,0,0,0,1255.0,0,true,false,false,false,false
+Atlantic Mut Grp,prodliab,55,0,0,0,1633.0,3,false,false,false,false,true
+Battle Creek Mut Ins Co,othliab,55,0,0,0,464.0,0,false,false,false,false,true
+British Amer Ins Co,wkcomp,55,0,0,0,48882.0,4,false,false,false,false,true
+Brotherhood Mut Ins Co,comauto,55,0,0,0,25863.0,1,false,false,false,false,true
+Center Mut Ins Co,othliab,55,0,0,0,958.0,0,false,false,false,false,true
+College Liability Ins Co Ltd RRG,othliab,55,1,0,0,3516.0,4,false,false,true,false,false
+Colorado Farm Bureau Mut Ins Co,othliab,55,0,0,0,3849.0,3,false,false,false,false,true
+Community Blood Cntr Exch RRG,medmal,15,0,0,5,2925.0,1,true,true,false,false,false
+Controlled Risk Ins Co Of VT Inc,medmal,6,0,0,0,26081.0,0,true,false,false,false,false
+Dorinco Rein Co,wkcomp,55,0,0,0,21038.0,1,false,false,false,false,true
+Elevators Mut Ins Co,othliab,6,0,0,3,58.0,0,true,true,false,false,false
+Farmers Union Mut Ins Co,othliab,55,0,0,0,8049.0,0,false,false,false,false,true
+First American Specilaty Ins Co,othliab,3,0,0,0,559.0,0,true,false,false,false,false
+Fitchburg Mut Ins Co,othliab,55,0,0,0,2200.0,2,false,false,false,false,true
+Florists Mut Ins Grp,ppauto,3,0,0,0,18.0,0,true,false,false,false,false
+Generali Us Branch,othliab,55,2,0,0,78947.0,3,false,false,true,false,false
+Germania Ins Grp,ppauto,55,0,0,0,104855.0,4,false,false,false,false,true
+Goodville Mut Cas Co,wkcomp,40,0,0,0,1583.0,1,true,false,false,false,false
+Home State Cnty Mut Ins Co,ppauto,51,0,0,11,58485.0,2,true,true,false,false,false
+IMT Ins Co Mut,wkcomp,55,0,0,0,20403.0,9,false,false,false,false,true
+Kentucky Farm Bureau Mut Ins Grp,ppauto,55,0,0,0,1295968.0,0,false,false,false,false,true
+Lebanon Mut Ins Co,prodliab,29,0,0,1,231.0,0,true,true,false,false,false
+Lumber Ins Cos,othliab,55,0,0,0,19379.0,3,false,false,false,false,true
+MCIC VT Inc RRG,medmal,1,0,0,0,18311.0,0,true,false,false,false,false
+Michigan Millers Mut Ins Co,comauto,55,0,0,0,20264.0,2,false,false,false,false,true
+Occidental Fire & Cas Co Grp,ppauto,50,0,0,5,52582.0,2,true,true,false,false,false
+Otsego Mut Fire Ins Co,othliab,55,0,0,0,585.0,2,false,false,false,false,true
+Overseas Partners Us Reins Co,othliab,6,0,0,0,4923.0,0,true,false,false,false,false
+Paratransit RRG Grp Ins Co,comauto,55,0,0,0,17496.0,4,false,false,false,false,true
+Partners Mut Ins Co,comauto,55,0,0,0,6305.0,2,false,false,false,false,true
+Patrons Mut Fire Assoc Of Nw PA,othliab,36,0,0,0,33.0,0,true,false,false,false,false
+Peachtree Cas Ins Co,ppauto,55,0,0,0,45341.0,3,false,false,false,false,true
+Pioneer State Mut Ins Co,ppauto,3,0,0,0,4098.0,0,true,false,false,false,false
+Proformance Ins Co (The),comauto,6,0,0,0,7584.0,0,true,false,false,false,false
+Protective Ins Grp,comauto,55,0,0,0,266116.0,1,false,false,false,false,true
+RLI Ins Co Grp,prodliab,55,10,0,0,80476.0,6,false,false,true,false,false
+San Antonio Reins Co,othliab,55,0,0,0,486.0,1,false,false,false,false,true
+Scor Reins Co Grp,prodliab,48,0,0,0,1539.0,0,true,false,false,false,false
+Sheboygan Falls Mut Ins Co,wkcomp,55,0,0,0,2241.0,2,false,false,false,false,true
+Sirius Amer Ins Co,wkcomp,55,1,0,0,4258.0,3,false,false,true,false,false
+Southwest General Ins Co,ppauto,55,0,0,0,4269.0,1,false,false,false,false,true
+Sublimity Ins Co,othliab,55,0,0,0,153.0,1,false,false,false,false,true
+Tenn Farmers Mut,ppauto,55,0,0,0,1088573.0,1,false,false,false,false,true
+Texas Hospital Ins Exch,medmal,55,0,0,0,46542.0,1,false,false,false,false,true
+Underwriters At Lloyds London,medmal,49,0,0,12,9208.0,0,true,true,false,false,false
+Vanliner Ins Co,wkcomp,55,0,0,0,208335.0,0,false,false,false,false,true
+Wisconsin Mut Ins Co,othliab,55,0,0,0,660.0,0,false,false,false,false,true
+Yasuda Fire & Marine Ins Co Of Amer,comauto,55,0,0,0,52674.0,1,false,false,false,false,true
+Aegis Grp,comauto,30,0,0,0,13.0,0,true,false,false,false,false
+Agway Ins Co,ppauto,55,0,0,0,74078.0,0,false,false,false,false,true
+Alaska Nat Ins Co,wkcomp,55,0,0,0,387839.0,0,false,false,false,false,true
+American Modern Ins Grp Inc,othliab,55,0,0,0,110127.0,0,false,false,false,false,true
+Associated Industries Ins Co,wkcomp,55,0,0,0,404768.0,3,false,false,false,false,true
+Atlantic Cas Ins Co,ppauto,55,0,0,0,51225.0,1,false,false,false,false,true
+Bancinsure Inc,ppauto,1,0,0,0,13.0,0,true,false,false,false,false
+Bell United Ins Co,comauto,55,0,0,0,17961.0,1,false,false,false,false,true
+British Amer Ins Co,comauto,55,0,0,0,5892.0,1,false,false,false,false,true
+Brotherhood Mut Ins Co,wkcomp,55,0,0,0,56067.0,0,false,false,false,false,true
+Co-Operative Ins Co,ppauto,10,0,0,0,2060.0,0,true,false,false,false,false
+Commercial Mut Ins Co,othliab,55,0,0,0,1560.0,0,false,false,false,false,true
+Cornerstone Natl Ins Co,ppauto,1,0,0,0,1232.0,0,true,false,false,false,false
+Eastern Dentists Ins Co RRG,medmal,21,0,0,0,1863.0,0,true,false,false,false,false
+Farmers Home Mut Fire Ins Co,othliab,55,0,0,7,333.0,4,false,true,false,false,false
+Farmers Ins Co of Flemington,othliab,55,0,0,0,12775.0,0,false,false,false,false,true
+Federated Natl Ins Co,ppauto,21,0,0,0,30958.0,0,true,false,false,false,false
+First Amer Ins Co,othliab,55,0,0,0,34843.0,8,false,false,false,false,true
+Fulmont Mut Ins Co,othliab,27,0,0,0,55.0,0,true,false,false,false,false
+Goodville Mut Cas Co,comauto,55,0,0,0,8864.0,0,false,false,false,false,true
+Grange Ins Asn Grp,othliab,55,0,0,0,20478.0,2,false,false,false,false,true
+Gulf States Ins Co,ppauto,55,0,0,0,6975.0,3,false,false,false,false,true
+Hastings Mut Ins Co,ppauto,55,0,0,0,188477.0,1,false,false,false,false,true
+Homestead Ins Co,medmal,15,0,0,0,2514.0,0,true,false,false,false,false
+IMT Ins Co Mut,comauto,55,0,0,0,11424.0,4,false,false,false,false,true
+Lebanon Mut Ins Co,ppauto,55,0,0,0,1684.0,2,false,false,false,false,true
+Mada Ins Exchange,wkcomp,10,0,0,0,23406.0,0,true,false,false,false,false
+Medical Mut Ins Co Of ME,medmal,55,0,0,0,103667.0,3,false,false,false,false,true
+Michigan Millers Mut Ins Co,wkcomp,55,0,0,0,77827.0,0,false,false,false,false,true
+North Sea Ins Co,othliab,55,0,0,0,4743.0,3,false,false,false,false,true
+Oregon Mut Grp,prodliab,55,0,2,0,4826.0,1,false,false,false,true,false
+Oswego County Mut Ins Co,othliab,55,2,1,10,3342.0,2,false,true,true,true,false
+Partners Mut Ins Co,wkcomp,55,0,0,0,11286.0,4,false,false,false,false,true
+Philadelphia Ind Ins Co & Aff,comauto,55,0,0,0,145234.0,2,false,false,false,false,true
+Pioneer State Mut Ins Co,prodliab,55,0,0,2,644.0,0,false,true,false,false,false
+Preferred Mut Ins Co,othliab,55,0,0,0,28626.0,1,false,false,false,false,true
+Promutual Grp,othliab,55,0,0,0,21185.0,1,false,false,false,false,true
+Protective Ins Grp,wkcomp,55,0,0,0,121755.0,0,false,false,false,false,true
+Sirius Amer Ins Co,comauto,55,0,0,0,12766.0,6,false,false,false,false,true
+Springfield Fire & Cas Co,comauto,55,0,0,0,2286.0,1,false,false,false,false,true
+Standard Mut Ins Co,othliab,55,0,0,0,1507.0,2,false,false,false,false,true
+Vanliner Ins Co,comauto,55,0,0,0,354078.0,1,false,false,false,false,true
+Vermont Mut Ins Co Grp,othliab,55,0,0,0,7826.0,0,false,false,false,false,true
+Wellington Ins Co,comauto,28,0,0,0,5455.0,0,true,false,false,false,false
+Yasuda Fire & Marine Ins Co Of Amer,wkcomp,55,0,0,0,207371.0,0,false,false,false,false,true
+American Agricultural Ins Co,othliab,55,0,0,0,41469.0,2,false,false,false,false,true
+American Mining Ins Co Inc,othliab,45,0,0,0,5710.0,0,true,false,false,false,false
+American Resources Ins Co Inc,wkcomp,55,0,0,0,52950.0,0,false,false,false,false,true
+Antilles Ins Co,prodliab,55,0,0,0,1541.0,0,false,false,false,false,true
+Brethren Mut Ins Co,wkcomp,55,0,0,0,8967.0,6,false,false,false,false,true
+Camico Mut Ins Co,othliab,55,0,0,0,2264.0,4,false,false,false,false,true
+Casco Ind Co,comauto,1,0,0,0,26.0,0,true,false,false,false,false
+Celina Mut Grp,ppauto,55,0,0,0,155061.0,0,false,false,false,false,true
+Consumers Ins Usa Inc,ppauto,6,0,0,0,1877.0,0,true,false,false,false,false
+Contractors Bonding & Ins Co,comauto,6,0,0,0,998.0,0,true,false,false,false,false
+Cooperativa D Seguros Multiples PR,othliab,55,0,0,0,16737.0,0,false,false,false,false,true
+Cumberland Cas & Surety Co,othliab,23,0,0,0,150.0,0,true,false,false,false,false
+Daily Underwriters Of Amer,comauto,55,0,0,0,3540.0,2,false,false,false,false,true
+Dryden Mut Ins Co,othliab,55,0,0,0,12386.0,0,false,false,false,false,true
+Federated Rural Electric Ins Corp,othliab,55,0,0,0,100360.0,1,false,false,false,false,true
+First Mercury Ins Co,othliab,55,0,0,0,121871.0,0,false,false,false,false,true
+IDS Property Cas Ins Co,ppauto,55,0,0,0,278768.0,3,false,false,false,false,true
+Island Ins Cos Grp,othliab,55,0,0,0,32269.0,4,false,false,false,false,true
+Keystone Ins Grp,wkcomp,55,0,0,0,106.0,0,false,false,false,false,true
+Leatherstocking Coop Ins  Co,othliab,55,0,0,0,215.0,2,false,false,false,false,true
+Maine Mut Fire Ins Co,ppauto,55,0,0,0,55836.0,1,false,false,false,false,true
+Maple Valley Mut Ins Co,wkcomp,28,0,0,0,199.0,1,true,false,false,false,false
+Midstates Rein Corp,wkcomp,52,0,0,5,11854.0,1,true,true,false,false,false
+Midwest Family Mut Ins Co,ppauto,55,0,0,0,33221.0,0,false,false,false,false,true
+National American Ins Co,medmal,27,0,0,0,77.0,0,true,false,false,false,false
+Nazareth Mut Ins Co,othliab,55,0,0,0,954.0,0,false,false,false,false,true
+New Jersey Manufacturers Grp,comauto,55,0,0,0,526707.0,0,false,false,false,false,true
+New York Municipal Ins Reciprocal,othliab,15,0,0,0,12686.0,0,true,false,false,false,false
+Nichido Fire & Marine Ins Co Ltd,prodliab,28,0,0,7,1512.0,0,true,true,false,false,false
+Nissan Fire & Marine Ins Co Us Br,comauto,55,0,0,0,2026.0,0,false,false,false,false,true
+Nonprofits Ins Assn Interins,othliab,36,0,0,0,6557.0,0,true,false,false,false,false
+North American Ind Co,othliab,28,0,0,0,2081.0,0,true,false,false,false,false
+North Star Co,prodliab,55,0,0,0,1261.0,0,false,false,false,false,true
+Nova Cas Co,comauto,10,0,0,1,287.0,1,true,true,false,false,false
+Omega Ins Co,comauto,34,0,0,0,164.0,0,true,false,false,false,false
+Penn Miller Grp,wkcomp,55,0,0,0,34226.0,0,false,false,false,false,true
+Pennsylvania Lumbermens Mut Ins,comauto,55,0,0,0,50686.0,2,false,false,false,false,true
+Samsung Fire & Marine Ins Co Ltd,othliab,36,0,0,12,306.0,0,true,true,false,false,false
+Secura Ins Co,comauto,55,0,0,0,28834.0,4,false,false,false,false,true
+Seguros Triples Inc,othliab,55,0,0,0,8072.0,1,false,false,false,false,true
+State Farm Mut Grp,prodliab,55,0,0,0,25444.0,0,false,false,false,false,true
+State Volunteer Mut Ins Co,othliab,55,0,0,0,1415.0,1,false,false,false,false,true
+State-Wide Ins Co,comauto,55,0,0,0,2475.0,0,false,false,false,false,true
+Traders Ins Co,ppauto,55,0,0,0,27372.0,4,false,false,false,false,true
+United Americas Ins Co,othliab,55,0,0,15,568.0,2,false,true,false,false,false
+Agri General Ins Co,othliab,15,0,0,0,93.0,0,true,false,false,false,false
+American Mining Ins Co Inc,comauto,45,0,0,0,3892.0,1,true,false,false,false,false
+Associated Loggers Exch,wkcomp,55,0,0,0,72350.0,0,false,false,false,false,true
+Baltica-Skandinavia Rein Co Of Amer,ppauto,27,3,0,0,44.0,1,true,false,true,false,false
+Campmed Cas & Ind Co Inc MD,medmal,10,0,0,0,900.0,0,true,false,false,false,false
+Canal Ins Co Grp,wkcomp,34,0,0,19,3240.0,0,true,true,false,false,false
+Chicago Mut Ins Co,ppauto,55,0,0,0,8945.0,1,false,false,false,false,true
+Columbia Ins Grp,prodliab,28,1,0,0,845.0,1,true,false,true,false,false
+Contractors Bonding & Ins Co,othliab,6,0,0,0,20.0,0,true,false,false,false,false
+Cooperativa D Seguros Multiples PR,comauto,55,0,0,0,41961.0,2,false,false,false,false,true
+Daily Underwriters Of Amer,othliab,1,0,0,0,1.0,0,true,false,false,false,false
+Erie Ins Exchange Grp,wkcomp,55,0,0,0,1136260.0,0,false,false,false,false,true
+FL Farm Bureau Grp,ppauto,55,0,0,0,4078168.0,0,false,false,false,false,true
+Farm Bureau Grp,ppauto,55,0,0,0,157203.0,8,false,false,false,false,true
+Farmers Automobile Grp,prodliab,55,0,0,0,8124.0,0,false,false,false,false,true
+Farmers Fire Ins Co,othliab,55,0,0,0,399.0,0,false,false,false,false,true
+Farmers Mech Mut Fire Ins Of WV,othliab,55,0,0,0,2712.0,1,false,false,false,false,true
+Farmers Mut Of TN,othliab,55,0,0,0,1581.0,3,false,false,false,false,true
+Federated Rural Electric Ins Corp,comauto,55,0,0,0,27256.0,1,false,false,false,false,true
+Fremont Mut Ins Co,wkcomp,1,0,0,0,13.0,0,true,false,false,false,false
+Hanys Ins Co,othliab,1,0,0,0,71.0,0,true,false,false,false,false
+Haulers Ins Co Inc,comauto,55,0,0,0,20966.0,5,false,false,false,false,true
+Health Care Ind Inc,wkcomp,49,0,0,0,123653.0,0,true,false,false,false,false
+Island Ins Cos Grp,comauto,55,0,0,0,96880.0,4,false,false,false,false,true
+Louisiana Med Mut Ins Co,medmal,55,1,0,0,176706.0,3,false,false,true,false,false
+Mapfre Reins Corp,othliab,52,0,0,0,6294.0,1,true,false,false,false,false
+Mid-Continent Ins Co,othliab,55,0,0,0,367.0,0,false,false,false,false,true
+NC Farm Bureau Ins Grp,wkcomp,55,0,0,0,93276.0,2,false,false,false,false,true
+National American Ins Co,ppauto,55,0,0,0,32763.0,4,false,false,false,false,true
+National Guardian RRG Inc,medmal,45,0,0,0,24371.0,2,true,false,false,false,false
+Nationwide Grp,medmal,2,0,0,1,1613.0,0,true,true,false,false,false
+New Jersey Manufacturers Grp,othliab,55,2,0,0,10881.0,0,false,false,true,false,false
+New York Municipal Ins Reciprocal,comauto,15,0,0,0,8100.0,0,true,false,false,false,false
+Nissan Fire & Marine Ins Co Us Br,othliab,55,0,0,0,2102.0,1,false,false,false,false,true
+Nonprofits Ins Assn Interins,comauto,36,0,0,0,4049.0,2,true,false,false,false,false
+Nova Cas Co,othliab,55,0,0,0,13279.0,0,false,false,false,false,true
+Old Lyme Ins Co Of RI Inc,othliab,55,0,0,0,24378.0,7,false,false,false,false,true
+Omega Ins Co,othliab,34,0,0,0,126.0,0,true,false,false,false,false
+Ophthalmic Mut Ins Co RRG,othliab,2,0,0,0,6.0,0,true,false,false,false,false
+Pacific Ind Ins Co,ppauto,21,0,0,6,6073.0,1,true,true,false,false,false
+Pennsylvania Lumbermens Mut Ins,othliab,55,0,0,0,55340.0,1,false,false,false,false,true
+Pennsylvania Natl Ins Grp,wkcomp,55,0,0,0,846036.0,0,false,false,false,false,true
+Residence Mut Grp,othliab,28,0,0,0,50.0,0,true,false,false,false,false
+Samsung Fire & Marine Ins Co Ltd,comauto,36,0,0,0,481.0,0,true,false,false,false,false
+Seguros Triples Inc,comauto,55,0,0,0,16933.0,1,false,false,false,false,true
+Seminole Cas Ins Co,ppauto,45,0,0,0,33556.0,1,true,false,false,false,false
+Shelter Ins Cos Grp,prodliab,55,0,0,0,2086.0,7,false,false,false,false,true
+Toa-Re Ins Co Of Amer,wkcomp,55,0,0,8,1235.0,0,false,true,false,false,false
+Umialik Ins Co,wkcomp,45,0,0,9,7174.0,0,true,true,false,false,false
+United Grp Captive Ins Co,comauto,7,0,0,1,1136.0,0,true,true,false,false,false
+Utica First Ins Co,othliab,55,0,0,0,985.0,2,false,false,false,false,true
